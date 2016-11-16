@@ -56,22 +56,24 @@ declare namespace zerror        = "http://zorba.io/errors";
 (:~
 :   This variable is for the MARCXML location - externally defined.
 :)
-declare variable $aseqxml as xs:string external;
+declare variable $aseqxmluri as xs:string external;
 
 
 <collection xmlns="http://www.loc.gov/MARC21/slim"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-xsi:schemaLocation="http://www.loc.gov/MARC21/slim
-http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
 
 {
-let $aseq := doc($aseqxml)
-for $record in $aseq/collection[*]/record[*]
-
+let $aseqxml := doc($aseqxmluri)
+for $record in $aseqxml/collection[*]/record[*]
+  let $leader := $record/leader/text()
   let $cf001 := $record/datafield[@tag="001" and @ind1=" " and @ind2=" "]/subfield[@code="a"]/text()
+  let $cf005 := $record/datafield[@tag="003" and @ind1=" " and @ind2=" "]/subfield[@code="a"]/text()
   return
   <record type="Bibliographic" >
+  <leader>{$leader}</leader>
   <controlfield tag="001">{$cf001}</controlfield>
+  <controlfield tag="005">{$cf005}</controlfield>
   </record>
 }
 </collection>
