@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <record xmlns="http://www.loc.gov/MARC21/slim" type="Bibliographic">
+    <leader>00000nem a2200000 c 4500</leader>
+    <controlfield tag="001">1116367416</controlfield>
+    <controlfield tag="003">DE-101</controlfield>
+    <controlfield tag="005">20161111080145.0</controlfield>
+    <controlfield tag="007">a|||||||</controlfield>
+    <controlfield tag="008">161018s2017    gw |||||||a||   ||||mul  </controlfield>
+    <datafield tag="016" ind1="7" ind2=" ">
+      <subfield code="2">DE-101</subfield>
+      <subfield code="a">1116367416</subfield>
+    </datafield>
+    <datafield tag="020" ind1=" " ind2=" ">
+      <subfield code="a">9783829738200</subfield>
+      <subfield code="9">978-3-8297-3820-0</subfield>
+    </datafield>
+    <datafield tag="034" ind1="0" ind2=" ">
+      <subfield code="d">E 005 00 00</subfield>
+      <subfield code="e">E 016 00 00</subfield>
+      <subfield code="f">N 048 00 00</subfield>
+      <subfield code="g">N 043 00 00</subfield>
+      <subfield code="9">A:agx</subfield>
+    </datafield>
+    <datafield tag="034" ind1="0" ind2=" ">
+      <subfield code="d">E005.000000</subfield>
+      <subfield code="e">E016.000000</subfield>
+      <subfield code="f">N048.000000</subfield>
+      <subfield code="g">N043.000000</subfield>
+      <subfield code="9">A:dgx</subfield>
+    </datafield>
+    <datafield tag="035" ind1=" " ind2=" ">
+      <subfield code="a">(DE-599)DNB1116367416</subfield>
+    </datafield>
+    <datafield tag="040" ind1=" " ind2=" ">
+      <subfield code="a">1249</subfield>
+      <subfield code="b">ger</subfield>
+      <subfield code="c">DE-101</subfield>
+      <subfield code="d">1165</subfield>
+      <subfield code="e">rda</subfield>
+    </datafield>
+    <datafield tag="041" ind1=" " ind2=" ">
+      <subfield code="a">mul</subfield>
+    </datafield>
+    <datafield tag="044" ind1=" " ind2=" ">
+      <subfield code="c">XA-DE-BW</subfield>
+    </datafield>
+    <datafield tag="082" ind1="7" ind2="4">
+      <subfield code="a">910</subfield>
+      <subfield code="q">DE-101</subfield>
+      <subfield code="2">23sdnb</subfield>
+    </datafield>
+    <datafield tag="084" ind1=" " ind2=" ">
+      <subfield code="a">910</subfield>
+      <subfield code="q">DE-101</subfield>
+      <subfield code="2">sdnb</subfield>
+    </datafield>
+    <datafield tag="090" ind1=" " ind2=" ">
+      <subfield code="a">b</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2=" ">
+      <subfield code="0">(DE-588)1065096801</subfield>
+      <subfield code="0">(uri)http://d-nb.info/gnd/1065096801</subfield>
+      <subfield code="0">(DE-101)1065096801</subfield>
+      <subfield code="a">Mairdumont GmbH &amp; Co. KG</subfield>
+      <subfield code="e">Kartograf</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="240" ind1="1" ind2="0">
+      <subfield code="a">Alpen</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Alpi</subfield>
+      <subfield code="b">Marco Polo highlights = Alpen</subfield>
+    </datafield>
+    <datafield tag="250" ind1=" " ind2=" ">
+      <subfield code="a">[Laufzeit] → 2021, 8. [Auflage]</subfield>
+    </datafield>
+    <datafield tag="255" ind1=" " ind2=" ">
+      <subfield code="a">1:800 000</subfield>
+    </datafield>
+    <datafield tag="259" ind1=" " ind2=" ">
+      <subfield code="a">42021</subfield>
+    </datafield>
+    <datafield tag="264" ind1=" " ind2="1">
+      <subfield code="a">Ostfildern</subfield>
+      <subfield code="b">MairDumont</subfield>
+      <subfield code="c">[2017]</subfield>
+    </datafield>
+    <datafield tag="300" ind1=" " ind2=" ">
+      <subfield code="a">1 Karte</subfield>
+      <subfield code="c">83 x 114 cm, gefaltet im Umschlag 25 x 13 cm</subfield>
+      <subfield code="e">1 Index (111 Seiten)</subfield>
+    </datafield>
+    <datafield tag="336" ind1=" " ind2=" ">
+      <subfield code="a">kartografisches Bild</subfield>
+      <subfield code="b">cri</subfield>
+      <subfield code="2">rdacontent</subfield>
+    </datafield>
+    <datafield tag="337" ind1=" " ind2=" ">
+      <subfield code="a">ohne Hilfsmittel zu benutzen</subfield>
+      <subfield code="b">n</subfield>
+      <subfield code="2">rdamedia</subfield>
+    </datafield>
+    <datafield tag="338" ind1=" " ind2=" ">
+      <subfield code="a">Blatt</subfield>
+      <subfield code="b">nb</subfield>
+      <subfield code="2">rdacarrier</subfield>
+    </datafield>
+    <datafield tag="490" ind1="0" ind2=" ">
+      <subfield code="a">Marco Polo</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="0">(DE-588)4057883-5</subfield>
+      <subfield code="0">(uri)http://d-nb.info/gnd/4057883-5</subfield>
+      <subfield code="0">(DE-101)040578836</subfield>
+      <subfield code="a">Straße</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="650" ind1=" " ind2="7">
+      <subfield code="0">(DE-588)4049275-8</subfield>
+      <subfield code="0">(uri)http://d-nb.info/gnd/4049275-8</subfield>
+      <subfield code="0">(DE-101)040492753</subfield>
+      <subfield code="a">Reise</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="651" ind1=" " ind2="7">
+      <subfield code="0">(DE-588)4084992-2</subfield>
+      <subfield code="0">(uri)http://d-nb.info/gnd/4084992-2</subfield>
+      <subfield code="0">(DE-101)040849929</subfield>
+      <subfield code="a">Alpenländer</subfield>
+      <subfield code="2">gnd</subfield>
+    </datafield>
+    <datafield tag="655" ind1=" " ind2="7">
+      <subfield code="0">(DE-588)4029783-4</subfield>
+      <subfield code="0">(uri)http://d-nb.info/gnd/4029783-4</subfield>
+      <subfield code="0">(DE-101)040297837</subfield>
+      <subfield code="a">Karte</subfield>
+      <subfield code="2">gnd-content</subfield>
+    </datafield>
+    <datafield tag="689" ind1="0" ind2="0">
+      <subfield code="0">(DE-588)4084992-2</subfield>
+      <subfield code="0">(uri)http://d-nb.info/gnd/4084992-2</subfield>
+      <subfield code="0">(DE-101)040849929</subfield>
+      <subfield code="D">g</subfield>
+      <subfield code="a">Alpenländer</subfield>
+    </datafield>
+    <datafield tag="689" ind1="0" ind2="1">
+      <subfield code="0">(DE-588)4057883-5</subfield>
+      <subfield code="0">(uri)http://d-nb.info/gnd/4057883-5</subfield>
+      <subfield code="0">(DE-101)040578836</subfield>
+      <subfield code="D">s</subfield>
+      <subfield code="a">Straße</subfield>
+    </datafield>
+    <datafield tag="689" ind1="0" ind2="2">
+      <subfield code="0">(DE-588)4049275-8</subfield>
+      <subfield code="0">(uri)http://d-nb.info/gnd/4049275-8</subfield>
+      <subfield code="0">(DE-101)040492753</subfield>
+      <subfield code="D">s</subfield>
+      <subfield code="a">Reise</subfield>
+    </datafield>
+    <datafield tag="689" ind1="0" ind2=" ">
+      <subfield code="5">DE-101</subfield>
+      <subfield code="5">DE-101</subfield>
+    </datafield>
+    <datafield tag="850" ind1=" " ind2=" ">
+      <subfield code="a">DE-101a</subfield>
+      <subfield code="a">DE-101b</subfield>
+    </datafield>
+    <datafield tag="925" ind1="r" ind2=" ">
+      <subfield code="a">rc</subfield>
+    </datafield>
+  </record>

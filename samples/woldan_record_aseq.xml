@@ -1,0 +1,180 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+
+<collection xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record xmlns="http://www.loc.gov/MARC21/slim"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.loc.gov/MARC21/slim
+http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <leader>01037nM2.01200024      h</leader>
+  <controlfield tag="LDR">01037nM2.01200024      h</controlfield>
+  <controlfield tag="FMT">MH</controlfield>
+  <datafield tag="001" ind1=" " ind2=" ">
+    <subfield code="a">AC08566613</subfield>
+  </datafield>
+  <datafield tag="002" ind1="b" ind2=" ">
+    <subfield code="a">20110629</subfield>
+  </datafield>
+  <datafield tag="003" ind1=" " ind2=" ">
+    <subfield code="a">20160825</subfield>
+  </datafield>
+  <datafield tag="025" ind1="o" ind2=" ">
+    <subfield code="a">260211009</subfield>
+  </datafield>
+  <datafield tag="026" ind1=" " ind2=" ">
+    <subfield code="a">OBVAC08566613</subfield>
+  </datafield>
+  <datafield tag="026" ind1="g" ind2=" ">
+    <subfield code="a">108657329</subfield>
+  </datafield>
+  <controlfield tag="030">a|1drzzb|||27</controlfield>
+  <datafield tag="036" ind1="a" ind2=" ">
+    <subfield code="a">XA-AAAT</subfield>
+  </datafield>
+  <datafield tag="037" ind1="b" ind2=" ">
+    <subfield code="a">fre</subfield>
+  </datafield>
+  <datafield tag="034" ind1=" " ind2=" ">
+    <subfield code="a">a</subfield>
+    <subfield code="b">2700000</subfield>
+    <subfield code="d">E0093800</subfield>
+    <subfield code="e">E0305900</subfield>
+    <subfield code="f">N0492400</subfield>
+    <subfield code="g">N0394000</subfield>
+    <subfield code="2">bound</subfield>
+  </datafield>
+  <controlfield tag="050">||a|||||||a|||</controlfield>
+  <controlfield tag="051">m|||||||</controlfield>
+  <datafield tag="060" ind1=" " ind2=" ">
+    <subfield code="b">cri</subfield>
+  </datafield>
+  <datafield tag="061" ind1=" " ind2=" ">
+    <subfield code="b">n</subfield>
+  </datafield>
+  <datafield tag="062" ind1=" " ind2=" ">
+    <subfield code="b">nb</subfield>
+  </datafield>
+  <datafield tag="064" ind1="a" ind2=" ">
+    <subfield code="a">Altkarte</subfield>
+    <subfield code="9">(DE-588)4611904-8</subfield>
+  </datafield>
+  <datafield tag="070" ind1=" " ind2=" ">
+    <subfield code="a">OAW</subfield>
+  </datafield>
+  <datafield tag="070" ind1="a" ind2=" ">
+    <subfield code="a">BAY</subfield>
+  </datafield>
+  <datafield tag="070" ind1="b" ind2=" ">
+    <subfield code="a">OAW</subfield>
+  </datafield>
+  <datafield tag="076" ind1="s" ind2=" ">
+    <subfield code="a">54</subfield>
+  </datafield>
+  <datafield tag="200" ind1=" " ind2=" ">
+    <subfield code="k">Artaria und Compagnie</subfield>
+    <subfield code="h">Wien</subfield>
+    <subfield code="9">(DE-588)2030321-X</subfield>
+    <subfield code="4">ctg</subfield>
+  </datafield>
+  <datafield tag="331" ind1=" " ind2=" ">
+    <subfield code="a">Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire</subfield>
+  </datafield>
+  <datafield tag="335" ind1=" " ind2=" ">
+    <subfield code="a">ou guide de voyage a Constantinople sur le Danube avec indication de tout ce qui a rapport à la navigation des Pyroscaphes sur cette route</subfield>
+  </datafield>
+  <datafield tag="359" ind1=" " ind2=" ">
+    <subfield code="a">chez Artaria &amp; Compagnie ; C. Stein sc.</subfield>
+  </datafield>
+  <datafield tag="407" ind1=" " ind2=" ">
+    <subfield code="a">circa 1:2 700 000</subfield>
+  </datafield>
+  <datafield tag="419" ind1=" " ind2=" ">
+    <subfield code="a">Vienne</subfield>
+    <subfield code="b">chez Artaria &amp; Compagnie</subfield>
+    <subfield code="c">1837</subfield>
+  </datafield>
+  <datafield tag="425" ind1="a" ind2=" ">
+    <subfield code="a">1837</subfield>
+  </datafield>
+  <datafield tag="433" ind1="c" ind2=" ">
+    <subfield code="a">1 Karte</subfield>
+  </datafield>
+  <datafield tag="435" ind1=" " ind2=" ">
+    <subfield code="a">48 x 69 cm</subfield>
+  </datafield>
+  <datafield tag="439" ind1=" " ind2=" ">
+    <subfield code="d">Lithographie</subfield>
+  </datafield>
+  <datafield tag="501" ind1=" " ind2=" ">
+    <subfield code="a">Details zu kartographischen Inhalt: Mit Böschungsschraffen</subfield>
+  </datafield>
+  <datafield tag="501" ind1=" " ind2=" ">
+    <subfield code="a">Ergänzender Inhalt: Mit Tabellen zu Reiseinformationen</subfield>
+  </datafield>
+  <datafield tag="501" ind1=" " ind2=" ">
+    <subfield code="a">Sonstige Details: Exemplar ÖAW-Sammlung Woldan koloriert</subfield>
+  </datafield>
+  <datafield tag="655" ind1="o" ind2=" ">
+    <subfield code="m">V:AT-OBV;B:AT-OeNB</subfield>
+    <subfield code="q">application/html</subfield>
+    <subfield code="u">http://data.onb.ac.at/dtl/3756104</subfield>
+    <subfield code="x">ONB-DTL</subfield>
+    <subfield code="3">Digitales Objekt</subfield>
+  </datafield>
+  <datafield tag="677" ind1=" " ind2=" ">
+    <subfield code="p">Stein, Carl</subfield>
+    <subfield code="9">(DE-588)104333677</subfield>
+    <subfield code="4">egr</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="g">Donau</subfield>
+    <subfield code="9">(DE-588)4012712-6</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="s">Hydrologie</subfield>
+    <subfield code="9">(DE-588)4026309-5</subfield>
+  </datafield>
+  <datafield tag="902" ind1=" " ind2=" ">
+    <subfield code="f">Altkarte</subfield>
+  </datafield>
+  <datafield tag="903" ind1=" " ind2=" ">
+    <subfield code="a">231</subfield>
+  </datafield>
+  <datafield tag="907" ind1=" " ind2=" ">
+    <subfield code="g">Südosteuropa</subfield>
+    <subfield code="9">(DE-588)4058449-5</subfield>
+  </datafield>
+  <datafield tag="907" ind1=" " ind2=" ">
+    <subfield code="s">Reiseweg</subfield>
+    <subfield code="9">(DE-588)4233933-9</subfield>
+  </datafield>
+  <datafield tag="907" ind1=" " ind2=" ">
+    <subfield code="f">Altkarte</subfield>
+  </datafield>
+  <datafield tag="908" ind1=" " ind2=" ">
+    <subfield code="a">213</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="g">Donau-Gebiet</subfield>
+    <subfield code="9">(DE-588)4234660-5</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="s">Reiseweg</subfield>
+    <subfield code="9">(DE-588)4233933-9</subfield>
+  </datafield>
+  <datafield tag="912" ind1=" " ind2=" ">
+    <subfield code="f">Altkarte</subfield>
+  </datafield>
+  <datafield tag="913" ind1=" " ind2=" ">
+    <subfield code="a">213</subfield>
+  </datafield>
+  <datafield tag="SID" ind1=" " ind2=" ">
+    <subfield code="a">Z39</subfield>
+    <subfield code="b">BVBKAT</subfield>
+  </datafield>
+</record>
+
+</collection>
