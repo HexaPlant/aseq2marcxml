@@ -53,11 +53,34 @@ declare namespace log           = "info:lc/marc2bibframe/logging#";
 declare namespace err           = "http://www.w3.org/2005/xqt-errors";
 declare namespace zerror        = "http://zorba.io/errors";
 
+declare namespace mtools       	= "https://github.com/HexaPlant/aseq2marcxml";
+
 (:~
 :   This variable is for the MARCXML location - externally defined.
 :)
 declare variable $aseqxmluri as xs:string external;
 
+declare function mtools:controlfield($tag as xs:string,$value as xs:string)
+as element()* {
+    element {"controlfield"} { attribute tag {$tag}, $value}
+};
+
+declare function mtools:subfield($code as xs:string,$value as xs:string)
+as element()* {
+    element {"subfield"} { attribute code {$code}, $value}
+};
+
+declare function mtools:datafield($tag as xs:string,$ind1 as xs:string,$ind2 as xs:string,$value as element()*)
+as element()* {
+    element {"datafield"} { attribute tag {$tag}, attribute ind1 {$ind1}, attribute ind2 {$ind2}, $value}
+};
+
+declare function mtools:choosenotempty($s1 as xs:string*, $s2 as xs:string*)
+as xs:string {
+    if ($s1)
+      then  $s1
+      else  $s2
+    };
 
 <collection xmlns="http://www.loc.gov/MARC21/slim"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -65,15 +88,43 @@ xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
 
 {
 let $aseqxml := doc($aseqxmluri)
+
+let $controlfieldMap:=<controlfieldMap>
+  <datafield tag="001" ind1=" " ind2=" " code="a"  m21tag="001"/>
+</controlfieldMap>
+
+let $datafieldMap:=<datafieldMap>
+  <datafield tag="034" ind1=" " m21tag="034" m21ind1="1" m21ind2="#"/>
+  <datafield tag="331" ind1=" " m21tag="245" m21ind1="0" m21ind2="0"/>
+</datafieldMap>
+
+let $subfieldMap:=<subfieldMap>
+</subfieldMap>
+
 for $record in $aseqxml/collection[*]/record[*]
-  let $leader := $record/leader/text()
-  let $cf001 := $record/datafield[@tag="001" and @ind1=" " and @ind2=" "]/subfield[@code="a"]/text()
-  let $cf005 := $record/datafield[@tag="003" and @ind1=" " and @ind2=" "]/subfield[@code="a"]/text()
   return
   <record type="Bibliographic" >
-  <leader>{$leader}</leader>
-  <controlfield tag="001">{$cf001}</controlfield>
-  <controlfield tag="005">{$cf005}</controlfield>
+    {$record/leader}
+    {
+      for $datafield in $record/datafield
+        let $tag:={data($datafield/@tag)}
+        let $ind1:={data($datafield/@ind1)}
+        let $m21tag:={data($datafieldMap/datafield[@tag=$tag and @ind1=$ind1]/@m21tag)}
+        let $m21ind1:={data($datafieldMap/datafield[@tag=$tag and @ind1=$ind1]/@m21ind1)}
+        let $m21ind2:={data($datafieldMap/datafield[@tag=$tag and @ind1=$ind1]/@m21ind2)}
+        for $subfield in $datafield/subfield
+          let $code:= {data($subfield/@code)}
+          let $value:=$subfield/text()
+          let $m21subfieldcode:= {data($subfieldMap/datafield[@tag=$tag and @ind1=$ind1 and @code=$code]/@m21code)}
+          let $m21code := mtools:choosenotempty($m21subfieldcode,$code)
+          let $m21subfield:=mtools:subfield({$m21code},{$value})
+
+          return
+            if ({$m21tag}) then
+              mtools:datafield({$m21tag},{$m21ind1},{$m21ind2},{$m21subfield})
+            else
+              {}
+    }
   </record>
 }
 </collection>

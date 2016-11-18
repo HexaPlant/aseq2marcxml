@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <record type="Bibliographic">
+    <leader>01037nM2.01200024      h</leader>
+    <controlfield tag="001">AC08566613</controlfield>
+    <controlfield tag="005">20160825</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w"/>
+    </datafield>
+  </record>
+</collection>
