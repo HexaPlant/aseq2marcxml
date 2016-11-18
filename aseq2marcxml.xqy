@@ -89,39 +89,41 @@ xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
 {
 let $aseqxml := doc($aseqxmluri)
 
-let $controlfieldMap:=<controlfieldMap>
-  <datafield tag="001" ind1=" " ind2=" " code="a"  m21tag="001"/>
-</controlfieldMap>
-
 let $datafieldMap:=<datafieldMap>
+  <datafield tag="001" ind1=" " m21tag="001"/>
+  <datafield tag="002" ind1="a" m21tag="002"/>
+  <datafield tag="002" ind1="b" m21tag="003"/>
+  <datafield tag="003" ind1=" " m21tag="005"/>
   <datafield tag="034" ind1=" " m21tag="034" m21ind1="1" m21ind2="#"/>
+  <datafield tag="089" ind1=" " m21tag="245" m21ind1="0" m21ind2="0"/>
   <datafield tag="331" ind1=" " m21tag="245" m21ind1="0" m21ind2="0"/>
+  <datafield tag="100" ind1=" " code="p" m21tag="100" m21ind1="1" m21ind2="#" m21code="a"/>
 </datafieldMap>
-
-let $subfieldMap:=<subfieldMap>
-</subfieldMap>
 
 for $record in $aseqxml/collection[*]/record[*]
   return
   <record type="Bibliographic" >
     {$record/leader}
     {
+
       for $datafield in $record/datafield
         let $tag:={data($datafield/@tag)}
         let $ind1:={data($datafield/@ind1)}
         let $m21tag:={data($datafieldMap/datafield[@tag=$tag and @ind1=$ind1]/@m21tag)}
         let $m21ind1:={data($datafieldMap/datafield[@tag=$tag and @ind1=$ind1]/@m21ind1)}
         let $m21ind2:={data($datafieldMap/datafield[@tag=$tag and @ind1=$ind1]/@m21ind2)}
+
         for $subfield in $datafield/subfield
           let $code:= {data($subfield/@code)}
           let $value:=$subfield/text()
-          let $m21subfieldcode:= {data($subfieldMap/datafield[@tag=$tag and @ind1=$ind1 and @code=$code]/@m21code)}
-          let $m21code := mtools:choosenotempty($m21subfieldcode,$code)
-          let $m21subfield:=mtools:subfield({$m21code},{$value})
-
+          let $m21code := {data($datafieldMap/datafield[@tag=$tag and @ind1=$ind1 and @code=$code]/@m21code)}
           return
-            if ({$m21tag}) then
-              mtools:datafield({$m21tag},{$m21ind1},{$m21ind2},{$m21subfield})
+            if ($m21tag and $m21ind1 and $m21ind2 and $m21code ) then
+              mtools:datafield({$m21tag},{$m21ind1},{$m21ind2},mtools:subfield({$m21code},{$value}))
+            else if ($m21tag and $m21ind1 and $m21ind2) then
+              mtools:datafield({$m21tag},{$m21ind1},{$m21ind2},mtools:subfield({$code},{$value}))
+            else if ($m21tag) then
+              mtools:controlfield({$m21tag},{$value})
             else
               {}
     }
