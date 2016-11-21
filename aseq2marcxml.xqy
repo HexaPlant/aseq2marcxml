@@ -60,27 +60,39 @@ declare namespace mtools       	= "https://github.com/HexaPlant/aseq2marcxml";
 :)
 declare variable $aseqxmluri as xs:string external;
 
-declare function mtools:controlfield($tag as xs:string,$value as xs:string)
+declare function mtools:createControlfield($tag as xs:string,$value as xs:string)
 as element()* {
     element {"controlfield"} { attribute tag {$tag}, $value}
 };
 
-declare function mtools:subfield($code as xs:string,$value as xs:string)
+declare function mtools:createSubfield($code as xs:string,$value as xs:string)
 as element()* {
     element {"subfield"} { attribute code {$code}, $value}
 };
 
-declare function mtools:datafield($tag as xs:string,$ind1 as xs:string,$ind2 as xs:string,$value as element()*)
+declare function mtools:createDatafield($tag as xs:string,$ind1 as xs:string,$ind2 as xs:string,$value as element()*)
 as element()* {
     element {"datafield"} { attribute tag {$tag}, attribute ind1 {$ind1}, attribute ind2 {$ind2}, $value}
 };
 
-declare function mtools:choosenotempty($s1 as xs:string*, $s2 as xs:string*)
+declare function mtools:chooseNotEmpty($s1 as xs:string*, $s2 as xs:string*)
 as xs:string {
     if ($s1)
       then  $s1
       else  $s2
     };
+
+declare function mtools:createfield($m21tag as xs:string*,$m21ind1 as xs:string*,$m21ind2 as xs:string*,$m21code as xs:string*,$code as xs:string*, $value as xs:string*)
+as element()* {
+  if ($m21tag and $m21ind1 and $m21ind2 and $m21code ) then
+    mtools:createDatafield({$m21tag},{$m21ind1},{$m21ind2},mtools:createSubfield({$m21code},{$value}))
+  else if ($m21tag and $m21ind1 and $m21ind2 and $code ) then
+    mtools:createDatafield({$m21tag},{$m21ind1},{$m21ind2},mtools:createSubfield({$code},{$value}))
+  else if ($m21tag) then
+    mtools:createControlfield({$m21tag},{$value})
+  else
+    {}
+};
 
 <collection xmlns="http://www.loc.gov/MARC21/slim"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -100,7 +112,7 @@ let $datafieldMap:=<datafieldMap>
   <datafield tag="100" ind1=" " code="p" m21tag="100" m21ind1="1" m21ind2="#" m21code="a"/>
 </datafieldMap>
 
-for $record in $aseqxml/collection[*]/record[*]
+for $record in $aseqxml/collection/record
   return
   <record type="Bibliographic" >
     {$record/leader}
@@ -118,14 +130,8 @@ for $record in $aseqxml/collection[*]/record[*]
           let $value:=$subfield/text()
           let $m21code := {data($datafieldMap/datafield[@tag=$tag and @ind1=$ind1 and @code=$code]/@m21code)}
           return
-            if ($m21tag and $m21ind1 and $m21ind2 and $m21code ) then
-              mtools:datafield({$m21tag},{$m21ind1},{$m21ind2},mtools:subfield({$m21code},{$value}))
-            else if ($m21tag and $m21ind1 and $m21ind2) then
-              mtools:datafield({$m21tag},{$m21ind1},{$m21ind2},mtools:subfield({$code},{$value}))
-            else if ($m21tag) then
-              mtools:controlfield({$m21tag},{$value})
-            else
-              {}
+              mtools:createfield({$m21tag},{$m21ind1},{$m21ind2},{$m21code},{$code},{$value})
+
     }
   </record>
 }
