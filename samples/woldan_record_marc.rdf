@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:bf="http://bibframe.org/vocab/" xmlns:bf2="http://bibframe.org/vocab2/" xmlns:madsrdf="http://www.loc.gov/mads/rdf/v1#" xmlns:relators="http://id.loc.gov/vocabulary/relators/">
+  <bf:Work rdf:about="http://permalink.obvsg.at/AC08566613">
+    <bf:authorizedAccessPoint>Artaria und Compagnie Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noireCarte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire</bf:authorizedAccessPoint>
+    <bf:workTitle rdf:resource="http://permalink.obvsg.at/AC08566613title4"/>
+    <relators:ctg rdf:resource="http://permalink.obvsg.at/AC08566613organization5"/>
+    <relators:egr rdf:resource="http://permalink.obvsg.at/AC08566613person6"/>
+    <bf:language rdf:resource="http://id.loc.gov/vocabulary/languages/fre"/>
+    <bf:cartographicScale>circa 1:2 700 000</bf:cartographicScale>
+    <bf:subject rdf:resource="http://permalink.obvsg.at/AC08566613topic9"/>
+    <bf:authorizedAccessPoint xml:lang="x-bf-hash">artariaundcompagniewiencarteducoursdudanubedepuisulmjusquásonembouchuredanslamernoirework</bf:authorizedAccessPoint>
+  </bf:Work>
+  <bf:Instance rdf:about="http://permalink.obvsg.at/AC08566613instance12">
+    <bf:instanceTitle rdf:resource="http://permalink.obvsg.at/AC08566613title14"/>
+    <bf:publication>
+      <bf:Provider>
+        <bf:providerName>
+          <bf:Organization>
+            <bf:label>chez Artaria &amp; Compagnie</bf:label>
+          </bf:Organization>
+        </bf:providerName>
+        <bf:providerPlace>
+          <bf:Place>
+            <bf:label>Vienne</bf:label>
+          </bf:Place>
+        </bf:providerPlace>
+        <bf:providerDate>1837</bf:providerDate>
+      </bf:Provider>
+    </bf:publication>
+    <bf:cartographicScale>Linear scale</bf:cartographicScale>
+    <bf:cartographicScale>2700000</bf:cartographicScale>
+    <bf:cartographicScale>circa 1:2 700 000</bf:cartographicScale>
+    <bf:cartographicCoordinates>E0093800° E0305900° N0492400° N0394000°</bf:cartographicCoordinates>
+    <bf:titleStatement>Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire</bf:titleStatement>
+    <bf:providerStatement>Vienne chez Artaria &amp; Compagnie 1837</bf:providerStatement>
+    <bf:instanceOf rdf:resource="http://permalink.obvsg.at/AC08566613"/>
+  </bf:Instance>
+  <bf:Annotation rdf:about="http://permalink.obvsg.at/AC08566613annotation11">
+    <bf:derivedFrom rdf:resource="http://permalink.obvsg.at/AC08566613.marcxml.xml"/>
+    <bf:descriptionConventions rdf:resource="http://id.loc.gov/vocabulary/descriptionConventions/nonisbd"/>
+    <bf:generationProcess>DLC transform-tool:2015-10-28-T11:01:00</bf:generationProcess>
+    <bf:changeDate>2016-08-25T:</bf:changeDate>
+    <bf:annotates rdf:resource="http://permalink.obvsg.at/AC08566613"/>
+  </bf:Annotation>
+  <bf:Title rdf:about="http://permalink.obvsg.at/AC08566613title4">
+    <bf:label>Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire</bf:label>
+    <bf:titleValue>Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire</bf:titleValue>
+  </bf:Title>
+  <bf:Organization rdf:about="http://permalink.obvsg.at/AC08566613organization5">
+    <bf:label>Artaria und Compagnie</bf:label>
+    <bf:authorizedAccessPoint>Artaria und Compagnie</bf:authorizedAccessPoint>
+    <bf:hasAuthority rdf:resource="http://d-nb.info/gnd/2030321-X"/>
+  </bf:Organization>
+  <bf:Person rdf:about="http://permalink.obvsg.at/AC08566613person6">
+    <bf:label>Stein, Carl</bf:label>
+    <bf:authorizedAccessPoint>Stein, Carl</bf:authorizedAccessPoint>
+    <bf:hasAuthority rdf:resource="http://d-nb.info/gnd/104333677"/>
+  </bf:Person>
+  <bf:Topic rdf:about="http://permalink.obvsg.at/AC08566613topic9">
+    <bf:authorizedAccessPoint>Altkarte--(DE-588)4611904-8</bf:authorizedAccessPoint>
+    <bf:label>Altkarte--(DE-588)4611904-8</bf:label>
+    <bf:hasAuthority>
+      <madsrdf:Authority>
+        <rdf:type rdf:resource="http://www.loc.gov/mads/rdf/v1#GenreForm"/>
+        <madsrdf:authoritativeLabel xmlns:marcxml="http://www.loc.gov/MARC21/slim" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:rdfs="http://www.w3.org/1999/02/22-rdf-schema#" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:identifiers="http://id.loc.gov/vocabulary/identifiers/" xml:lang="en">Altkarte--(DE-588)4611904-8</madsrdf:authoritativeLabel>
+        <madsrdf:isMemberOfMADSScheme rdf:resource=""/>
+      </madsrdf:Authority>
+    </bf:hasAuthority>
+  </bf:Topic>
+  <bf:Title rdf:about="http://permalink.obvsg.at/AC08566613title14">
+    <bf:label>Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire</bf:label>
+    <bf:titleValue>Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire</bf:titleValue>
+  </bf:Title>
+</rdf:RDF>

@@ -1,0 +1,4288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC03757771</controlfield>
+    <controlfield tag="002">20030630</controlfield>
+    <controlfield tag="005">20160912</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">104000</subfield>
+      <subfield code="d">E0095900</subfield>
+      <subfield code="e">E0125400</subfield>
+      <subfield code="f">N0474400</subfield>
+      <subfield code="g">N0453800</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Anich, Peter</subfield>
+      <subfield code="d">1723-1766</subfield>
+      <subfield code="9">(DE-588)118503189</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Tyrolis Sub Felici Regimine Mariæ Theresiæ Rom. Imper. Aug.</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Atlas Tyrolensis</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Circa 1:104 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="3">
+      <subfield code="a">[Wien]</subfield>
+      <subfield code="b">J. E. Mansfeld inv. et fecit</subfield>
+      <subfield code="c">1774</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Mansfeld, Johann Ernst</subfield>
+      <subfield code="d">1739-1796</subfield>
+      <subfield code="0">(DE-588)12207288X</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>01037nM2.01200024      h</leader>
+    <controlfield tag="001">AC08566613</controlfield>
+    <controlfield tag="003">20110629</controlfield>
+    <controlfield tag="005">20160825</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2700000</subfield>
+      <subfield code="d">E0093800</subfield>
+      <subfield code="e">E0305900</subfield>
+      <subfield code="f">N0492400</subfield>
+      <subfield code="g">N0394000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2="#">
+      <subfield code="a">Artaria und Compagnie</subfield>
+      <subfield code="g">Wien</subfield>
+      <subfield code="0">(DE-588)2030321-X</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:2 700 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Vienne</subfield>
+      <subfield code="b">chez Artaria &amp; Compagnie</subfield>
+      <subfield code="c">1837</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Stein, Carl</subfield>
+      <subfield code="0">(DE-588)104333677</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC11183924</controlfield>
+    <controlfield tag="002">20131210</controlfield>
+    <controlfield tag="005">20160830</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">55000000</subfield>
+      <subfield code="d">W1800000</subfield>
+      <subfield code="e">E1800000</subfield>
+      <subfield code="f">N0800000</subfield>
+      <subfield code="g">S0800000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Karte</subfield>
+      <subfield code="9">(DE-588)4029783-4</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Weltkarte</subfield>
+      <subfield code="9">(DE-588)4065368-7</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Berghaus, Hermann</subfield>
+      <subfield code="d">1828-1890</subfield>
+      <subfield code="9">(DE-588)116132469</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Allgemeine Welt_Karte in Mercator's Projection.</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:55 000 000 am Äquator</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Gotha</subfield>
+      <subfield code="b">Justus Perthes</subfield>
+      <subfield code="c">1864</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024||||||h</leader>
+    <controlfield tag="001">AC10732352</controlfield>
+    <controlfield tag="002">20130301</controlfield>
+    <controlfield tag="005">20160223</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Bode, Johann Elert</subfield>
+      <subfield code="d">1747-1826</subfield>
+      <subfield code="9">(DE-588)116215372</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Beschreibung und Gebrauch einer auf den Horizont von Berlin entworfenen neuen Weltcharte in zween Hemisphären</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Berlin, Stettin</subfield>
+      <subfield code="b">Friedrich Nicolai</subfield>
+      <subfield code="c">1783</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC10732316</controlfield>
+    <controlfield tag="002">20130301</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">54000000</subfield>
+      <subfield code="d">W1800000</subfield>
+      <subfield code="e">E1800000</subfield>
+      <subfield code="f">N0845900</subfield>
+      <subfield code="g">S0352700</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Bode, Johann Elert</subfield>
+      <subfield code="d">1747-1826</subfield>
+      <subfield code="9">(DE-588)116215372</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;Die&gt;&gt; Obere oder Nordliche Halbkugel der Erde</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1: 54 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Berlin], [Stettin]</subfield>
+      <subfield code="b">[Friedrich Nicolai]</subfield>
+      <subfield code="c">1783</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Gürsch, Carl Friedrich</subfield>
+      <subfield code="0">(DE-588)130385468</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC10732326</controlfield>
+    <controlfield tag="002">20130301</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">54000000</subfield>
+      <subfield code="d">W1800000</subfield>
+      <subfield code="e">E1800000</subfield>
+      <subfield code="f">S0004200</subfield>
+      <subfield code="g">S0850000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Bode, Johann Elert</subfield>
+      <subfield code="d">1747-1826</subfield>
+      <subfield code="9">(DE-588)116215372</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;Die&gt;&gt; Untere oder Südliche Halbkugel der Erde</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1: 54 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Berlin], [Stettin]</subfield>
+      <subfield code="b">[Friedrich Nicolai]</subfield>
+      <subfield code="c">1783</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Gürsch, Carl Friedrich</subfield>
+      <subfield code="0">(DE-588)130385468</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC10731800</controlfield>
+    <controlfield tag="002">20130301</controlfield>
+    <controlfield tag="005">20160223</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Bode, Johann Elert</subfield>
+      <subfield code="d">1747-1826</subfield>
+      <subfield code="9">(DE-588)116215372</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Auf den Horizont von Berlin entworfene neue Weltcharte in zween Hemisphären]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Berlin, Stettin</subfield>
+      <subfield code="b">Friedrich Nicolai</subfield>
+      <subfield code="c">1783</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Nicolai, Friedrich</subfield>
+      <subfield code="d">1733-1811</subfield>
+      <subfield code="0">(DE-588)118587668</subfield>
+      <subfield code="4">pbl</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC13303999</controlfield>
+    <controlfield tag="002">20160825</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+      <subfield code="b">560000</subfield>
+      <subfield code="d">E0145600</subfield>
+      <subfield code="e">E0204200</subfield>
+      <subfield code="f">N0463100</subfield>
+      <subfield code="g">N0433500</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Briffaut, Etienne</subfield>
+      <subfield code="9">(DE-588)136937608</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Carte Originale et particuliere da la Bosnie dans son entier la prémiere donnée au public, jusqu'a ce jour, nous navons jamais encore eû aucune Carte particuliere de cette Célébre Province tant rénommée, qui fait depuis plusieurs siécles tant de bruit dans le Monde, avec la Croatie, Lé sclavonie, la Morlaquie, partie de l'hongrie, Stirie, Comté de Cilley, Carenthie, Carniole, parties des Confins maritimes; partie de la Dalmatie, Servie et le L'albanie</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Le Royaume de Bosnie, dans son entier [...]</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:560 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Vienne</subfield>
+      <subfield code="b">Chez Etienne Briffaut</subfield>
+      <subfield code="c">1738</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC04568655</controlfield>
+    <controlfield tag="002">20050712</controlfield>
+    <controlfield tag="005">20161007</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+      <subfield code="b">160000</subfield>
+      <subfield code="d">E0102500</subfield>
+      <subfield code="e">E0122600</subfield>
+      <subfield code="f">N0474400</subfield>
+      <subfield code="g">N0454000</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Burgklehner, Matthias</subfield>
+      <subfield code="d">1573-1642</subfield>
+      <subfield code="9">(DE-588)121479927</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;Die&gt;&gt; Fr. Grafschaft Tirol</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">&lt;&lt;Die&gt;&gt; Fürstliche Grafschaft Tirol</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Circa 1:160 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Innsbruck</subfield>
+      <subfield code="b">[Verlag nicht ermittelbar]</subfield>
+      <subfield code="c">1629</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Spängler, Andreas</subfield>
+      <subfield code="d">1589-nach 1669</subfield>
+      <subfield code="0">(DE-588)130490253</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12408343</controlfield>
+    <controlfield tag="002">20150817</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-NL</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">dut</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">5000000</subfield>
+      <subfield code="d">W0094600</subfield>
+      <subfield code="e">E0390600</subfield>
+      <subfield code="f">N0293400</subfield>
+      <subfield code="g">N0454400</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Colom, Arnold</subfield>
+      <subfield code="d">1624-1668</subfield>
+      <subfield code="9">(DE-588)1112274804</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Middel-landtsche Zee</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:5 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Amsterdam</subfield>
+      <subfield code="c">[1668]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC13039133</controlfield>
+    <controlfield tag="002">20160824</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XD-CA</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+      <subfield code="b">2500000</subfield>
+      <subfield code="d">W1410400</subfield>
+      <subfield code="e">W0795800</subfield>
+      <subfield code="f">N0773900</subfield>
+      <subfield code="g">N0412500</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Karte</subfield>
+      <subfield code="9">(DE-588)4029783-4</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Devine, Thomas</subfield>
+      <subfield code="d">1818-1888</subfield>
+      <subfield code="9">(DE-588)1112224955</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Map of the Northwest Part of Canada Indian Territories &amp; Hudson's Bay</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:2 500 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Toronto</subfield>
+      <subfield code="b">Maclear &amp; Co Lith</subfield>
+      <subfield code="c">March, 1857</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC13304633</controlfield>
+    <controlfield tag="002">20160826</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+      <subfield code="b">25000000</subfield>
+      <subfield code="d">E1303800</subfield>
+      <subfield code="e">W0103200</subfield>
+      <subfield code="f">N0555800</subfield>
+      <subfield code="g">S0621400</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Duval, Pierre</subfield>
+      <subfield code="d">1619-1683</subfield>
+      <subfield code="9">(DE-588)124755763</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;L'&gt;&gt;Amerique</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:25 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Paris</subfield>
+      <subfield code="b">Chez M. Du Val, Fille de l'Auteur</subfield>
+      <subfield code="c">1679</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024||||||h</leader>
+    <controlfield tag="001">AC13304667</controlfield>
+    <controlfield tag="002">20160826</controlfield>
+    <controlfield tag="005">20160906</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">25000000</subfield>
+      <subfield code="d">W0990800</subfield>
+      <subfield code="e">W0104900</subfield>
+      <subfield code="f">N0555800</subfield>
+      <subfield code="g">N0005400</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Duval, Pierre</subfield>
+      <subfield code="d">1619-1683</subfield>
+      <subfield code="9">(DE-588)124755763</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;La&gt;&gt; Mer de Nort où sont la N.le France, La Floride, la N.le Espagne, les Isles et la Terre-Ferme d'Amerique</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Paris</subfield>
+      <subfield code="b">Chez M. Du Val, Fille de l'Auteur</subfield>
+      <subfield code="c">1679</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Liébaux, Jean Baptiste</subfield>
+      <subfield code="0">(DE-588)103760873</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024||||||h</leader>
+    <controlfield tag="001">AC13304657</controlfield>
+    <controlfield tag="002">20160826</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">25000000</subfield>
+      <subfield code="d">E1303800</subfield>
+      <subfield code="e">W1093200</subfield>
+      <subfield code="f">N0555800</subfield>
+      <subfield code="g">S0091000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Duval, Pierre</subfield>
+      <subfield code="d">1619-1683</subfield>
+      <subfield code="9">(DE-588)124755763</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;Le&gt;&gt; Nouveau Mexique et La Terre de Jesso</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Paris</subfield>
+      <subfield code="b">Chez M. Du Val, Fille de l'Auteur</subfield>
+      <subfield code="c">1679</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Liébaux, Jean Baptiste</subfield>
+      <subfield code="0">(DE-588)103760873</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12226339</controlfield>
+    <controlfield tag="002">20150325</controlfield>
+    <controlfield tag="005">20160811</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+      <subfield code="b">85000000</subfield>
+      <subfield code="d">W1800000</subfield>
+      <subfield code="e">E1800000</subfield>
+      <subfield code="f">N0900000</subfield>
+      <subfield code="g">S0900000</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Finé, Oronce</subfield>
+      <subfield code="d">1494-1555</subfield>
+      <subfield code="9">(DE-588)120463709</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Nova, Et Integra Universi Orbis Descriptio</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:85 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Paris]</subfield>
+      <subfield code="b">Christiano Wechelo</subfield>
+      <subfield code="c">1531</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Wechel, Christian</subfield>
+      <subfield code="d">1495-1554</subfield>
+      <subfield code="0">(DE-588)122560361</subfield>
+      <subfield code="4">pbl</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC12211701</controlfield>
+    <controlfield tag="002">20150312</controlfield>
+    <controlfield tag="005">20160321</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-IT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ita</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="A">ac0</subfield>
+      <subfield code="a">a</subfield>
+      <subfield code="b">1000000</subfield>
+      <subfield code="d">E0044200</subfield>
+      <subfield code="e">E0080700</subfield>
+      <subfield code="f">N0484000</subfield>
+      <subfield code="g">N0450000</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Forlani, Paolo &lt;&lt;de&gt;&gt;</subfield>
+      <subfield code="d">ca. 16. Jh.</subfield>
+      <subfield code="9">(DE-588)122650328</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Descrittione del Ducato di Savoia novamente posto in luce in Venetia L'anno MDLXII</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Circa 1:1 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="3">
+      <subfield code="a">Venetia</subfield>
+      <subfield code="b">Ferando Berteli libraro exc.</subfield>
+      <subfield code="c">1562</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Bertelli, Ferdinando</subfield>
+      <subfield code="0">(DE-588)121336549</subfield>
+      <subfield code="4">prt</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC03869742</controlfield>
+    <controlfield tag="002">20031024</controlfield>
+    <controlfield tag="005">20160321</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="A">ac0</subfield>
+      <subfield code="a">a</subfield>
+      <subfield code="b">50000</subfield>
+      <subfield code="d">E0125017</subfield>
+      <subfield code="e">E0131048</subfield>
+      <subfield code="f">N0470705</subfield>
+      <subfield code="g">N0465507</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Karte</subfield>
+      <subfield code="9">(DE-588)4029783-4</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2="#">
+      <subfield code="a">G. Freytag &amp; Berndt</subfield>
+      <subfield code="g">Firma</subfield>
+      <subfield code="0">(DE-588)1073065952</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Karte des Sonnblick und Umgebung</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">1:50 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Kartogr. Anst. v. G. Freytag &amp; Bernd</subfield>
+      <subfield code="c">[1892?]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC08768726</controlfield>
+    <controlfield tag="002">20111004</controlfield>
+    <controlfield tag="005">20160826</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">IT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ita</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+      <subfield code="b">9000000</subfield>
+      <subfield code="d">E0311300</subfield>
+      <subfield code="e">E0741800</subfield>
+      <subfield code="f">N0344900</subfield>
+      <subfield code="g">N0013600</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Gastaldi, Jacopo</subfield>
+      <subfield code="d">1500-1566</subfield>
+      <subfield code="9">(DE-588)121786129</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;Il&gt;&gt; disegno della seconda Parte dell'Asia</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:7 500 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Venetia</subfield>
+      <subfield code="b">[kein Verlag ermittelbar]</subfield>
+      <subfield code="c">1561</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Licinio, Fabio</subfield>
+      <subfield code="d">1521-1565</subfield>
+      <subfield code="0">(DE-588)1015749917</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC04465502</controlfield>
+    <controlfield tag="002">20050407</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2400000</subfield>
+      <subfield code="d">W0070800</subfield>
+      <subfield code="e">E0372600</subfield>
+      <subfield code="f">N0461200</subfield>
+      <subfield code="g">N0292700</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Groignard, Arnaud</subfield>
+      <subfield code="d">1681-1751</subfield>
+      <subfield code="9">(DE-588)1112294015</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2="#">
+      <subfield code="a">Dépôt des Cartes et Plans de la Marine</subfield>
+      <subfield code="g">Paris</subfield>
+      <subfield code="0">(DE-588)5561514-4</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Carte de la Mer Mediterranée</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:2 400 000]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Paris</subfield>
+      <subfield code="b">[kein Verlag ermittelbar]</subfield>
+      <subfield code="c">Ir. Mars 1745</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Dheulland, Guillaume</subfield>
+      <subfield code="d">1700-1770</subfield>
+      <subfield code="0">(DE-588)1037589548</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Bourgoin, Pierre</subfield>
+      <subfield code="0">(DE-588)132854228</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024||||||u</leader>
+    <controlfield tag="001">AC13303831</controlfield>
+    <controlfield tag="002">20160825</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC04465502</subfield>
+    </datafield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2400000</subfield>
+      <subfield code="d">W0070800</subfield>
+      <subfield code="e">E0122400</subfield>
+      <subfield code="f">N0461200</subfield>
+      <subfield code="g">N0292700</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">[Première Feuille]</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">1</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Paris</subfield>
+      <subfield code="c">1745</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC04024936</controlfield>
+    <controlfield tag="002">20040304</controlfield>
+    <controlfield tag="005">20160830</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="A">ac0</subfield>
+      <subfield code="a">a</subfield>
+      <subfield code="b">4600000</subfield>
+      <subfield code="d">W0015700</subfield>
+      <subfield code="e">E0271400</subfield>
+      <subfield code="f">N0534500</subfield>
+      <subfield code="g">N0364700</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Homann, Johann Christoph</subfield>
+      <subfield code="d">1703-1730</subfield>
+      <subfield code="9">(DE-588)12304071X</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Tabula Geographica Europae Austriacae Generalis sive Regionum Terrarumque Omnium ac Singularum Augustissimae Domui Austriacae Hereditariarum</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Circa 1:4 600 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Noribergae</subfield>
+      <subfield code="b">[Homannsche Erben]</subfield>
+      <subfield code="c">[zwischen 1725 und1730]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Homannsche Erben</subfield>
+      <subfield code="h">Nürnberg</subfield>
+      <subfield code="0">(DE-588)5293676-4</subfield>
+      <subfield code="4">pbl</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12307523</controlfield>
+    <controlfield tag="002">20150618</controlfield>
+    <controlfield tag="002">20150618</controlfield>
+    <controlfield tag="005">20160830</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-NL</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">85000000</subfield>
+      <subfield code="d">W1800000</subfield>
+      <subfield code="e">E1800000</subfield>
+      <subfield code="f">N0800000</subfield>
+      <subfield code="g">S0800000</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Weltkarte</subfield>
+      <subfield code="9">(DE-588)4065368-7</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Hondius, Jodocus</subfield>
+      <subfield code="d">1563-1612</subfield>
+      <subfield code="9">(DE-588)119072149</subfield>
+      <subfield code="4">ctg</subfield>
+      <subfield code="4">edt</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Typus Totius Orbis Terrarum,</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:85 000 000 am Äquator</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Amsterdam]</subfield>
+      <subfield code="b">à Iud. Hondio cælatore</subfield>
+      <subfield code="c">[1597?]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC13310541</controlfield>
+    <controlfield tag="002">20160902</controlfield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">75000000</subfield>
+      <subfield code="d">E1391300</subfield>
+      <subfield code="e">E1432600</subfield>
+      <subfield code="f">N0845400</subfield>
+      <subfield code="g">S0850500</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Hondius, Jodocus</subfield>
+      <subfield code="d">1593-1629</subfield>
+      <subfield code="9">(DE-588)139624422</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Nova totius terrarum orbis geographica ac hydrographica tabula</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:75 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Amstelodami</subfield>
+      <subfield code="b">Iudocum Hondium</subfield>
+      <subfield code="c">[circa 1625]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC09369655</controlfield>
+    <controlfield tag="002">20120622</controlfield>
+    <controlfield tag="005">20151210</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Köhler, Johann David</subfield>
+      <subfield code="d">1684-1755</subfield>
+      <subfield code="9">(DE-588)11872424X</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;Johann David Koehlers Historiarum &amp; Politices Professoris Publici auf der Nürnbergischen Universitaet Altdorff&gt;&gt; Bequemer Schul- und Reisen-Atlas</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Bequemer Schul- und Reisen-Atlas</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">verschiedene Maßstäbe</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="3">
+      <subfield code="a">Nürnberg</subfield>
+      <subfield code="b">Gedruckt bey Johann Ernst Adelbulnern</subfield>
+      <subfield code="c">1718</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12218831</controlfield>
+    <controlfield tag="002">20150318</controlfield>
+    <controlfield tag="005">20160830</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+      <subfield code="b">20000</subfield>
+      <subfield code="d">E0021826</subfield>
+      <subfield code="e">E0022358</subfield>
+      <subfield code="f">N0485243</subfield>
+      <subfield code="g">N0484953</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">La Grive, Jean &lt;&lt;de&gt;&gt;</subfield>
+      <subfield code="d">1687-1757</subfield>
+      <subfield code="9">(DE-588)11757371X</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Nouveau Plan de Paris et de ses Faubourgs</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:20 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Paris]</subfield>
+      <subfield code="b">[Verlag nicht ermittelbar]</subfield>
+      <subfield code="c">1740</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC11594272</controlfield>
+    <controlfield tag="002">20140404</controlfield>
+    <controlfield tag="005">20161005</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-NL</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">920000</subfield>
+      <subfield code="d">E0134600</subfield>
+      <subfield code="e">E0170600</subfield>
+      <subfield code="f">N0485200</subfield>
+      <subfield code="g">N0463800</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Lazius, Wolfgang</subfield>
+      <subfield code="d">1514-1565</subfield>
+      <subfield code="9">(DE-588)118726870</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Austriae Ducatus Seu Pannoniae Superioris Chorographia Germana</subfield>
+    </datafield>
+    <datafield tag="250" ind1="#" ind2="#">
+      <subfield code="a">[2. Ausabe]</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Circa 1:920 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Antwerpen]</subfield>
+      <subfield code="b">[Jode, Gérard de]</subfield>
+      <subfield code="c">[1570]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12231556</controlfield>
+    <controlfield tag="002">20150330</controlfield>
+    <controlfield tag="005">20160901</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">750000</subfield>
+      <subfield code="d">W0020500</subfield>
+      <subfield code="e">W0000900</subfield>
+      <subfield code="f">N0454200</subfield>
+      <subfield code="g">N0431600</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;La&gt;&gt; carte du Bourdelois, du pays de Médoc, et de la prevesté de Born.</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:750 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Paris]</subfield>
+      <subfield code="b">Jean le Clerc</subfield>
+      <subfield code="c">[circa 1626]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Rogiers, Salomon</subfield>
+      <subfield code="0">(DE-588)103746331</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC08769745</controlfield>
+    <controlfield tag="002">20111004</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-NL</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">30000000</subfield>
+      <subfield code="d">W0431800</subfield>
+      <subfield code="e">E1374000</subfield>
+      <subfield code="f">N0514200</subfield>
+      <subfield code="g">S0394900</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Lodewycksz, Willem</subfield>
+      <subfield code="d">15XX-1604</subfield>
+      <subfield code="9">(DE-588)124759424</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Descriptio Hydrogaphica accomodata ad Battavorum Navigatione in Javam insulam Indiae Orientalis, saetam ad quam postridie Calendas Aprilis ann'1595 ex Hollandia solverunt et ex qua domum redierunt Idus Augusti anno 1597 Horum extus reditusq' via his notis demonstratur De hac navigatione extat descriptio lectu perquam admiranda</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Eygengliche und ausfuhrliche Mappa de Orientallischen Indien darinen auch mit puntien angezeichnet di hin und widerum Reisse der Hollander nach der Inseln Java welche den anderen tag deß Monat Aprils im 1595 Jahr von Holland sind außgefahren und den 14 Augusti A° 1597 wider in Holland an sind komen wi di Histori hie von Meldet</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1: 30 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Frankfurt am Main]</subfield>
+      <subfield code="b">[Théodore de Bry]</subfield>
+      <subfield code="c">[1599]</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte auf 2 Blättern</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC08769695</controlfield>
+    <controlfield tag="002">20111004</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-NL</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">dut</subfield>
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">5250000</subfield>
+      <subfield code="d">E0933900</subfield>
+      <subfield code="e">E1185800</subfield>
+      <subfield code="f">N0071300</subfield>
+      <subfield code="g">S0080700</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Lodewycksz, Willem</subfield>
+      <subfield code="d">15XX-1604</subfield>
+      <subfield code="9">(DE-588)124759424</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Nova tabula, Insularum Javae, Sumatrae, Borneonis et aliarum Malaccam usque, delineata in insula Iava, ubi ad vivum designantur, vada et brevia scopulique interjacentes</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Nieuwe caerte op Java gheteeckent, van de eylanden van Java, Sumatra, Borneo tot Malacca toe, daer in dat alle de bijleggende eylanden naer t'leven gestelt, ende op haer plaetse geleyt zyn</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 5 250 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Amsterdam]</subfield>
+      <subfield code="b">Cornelius Nicolai excud.</subfield>
+      <subfield code="c">[1598]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Doetichum, Baptista &lt;&lt;van&gt;&gt;</subfield>
+      <subfield code="d">1570-1611</subfield>
+      <subfield code="0">(DE-588)12109748X</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Claesz, Cornelis</subfield>
+      <subfield code="d">ca. ca. 1546-1609</subfield>
+      <subfield code="0">(DE-588)133653269</subfield>
+      <subfield code="4">pbl</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC04564092</controlfield>
+    <controlfield tag="002">20050706</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Maire, François Joseph</subfield>
+      <subfield code="d">1738-1788</subfield>
+      <subfield code="9">(DE-588)129300616</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Grundriß und Durchschnitt zwoer Schleusen um die Bewegungsart zu zeigen wie ein Schiff sich stuffenweise zu gewissen Hoehen erheben und ebenso wieder abwaerts gehen koenne</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Plan et Coupe de deux Ecluses a l'effer de montrer par quel mecanisme un Bateau peut, s'élever graduellement à de certaines hauteurs et en descendre</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Wien]</subfield>
+      <subfield code="b">[Ch. &amp; Fred. Bargum &amp; Comp.]</subfield>
+      <subfield code="c">[1786]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC03762591</controlfield>
+    <controlfield tag="002">20030704</controlfield>
+    <controlfield tag="005">20161003</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">AA</subfield>
+      <subfield code="c">AT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Maire, François Joseph</subfield>
+      <subfield code="d">1738-1788</subfield>
+      <subfield code="9">(DE-588)129300616</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Hydrographische Karte der oestreichischen Erbstaaten diesseits des Rheins</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Carte Hydrographique des Etats de la Maison d'Autriche en deça du Rhin</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Circa 1:970 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Ch. &amp; Fred. Bargum &amp; Comp.</subfield>
+      <subfield code="c">[1786]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Mansfeld, Johann Ernst</subfield>
+      <subfield code="d">1739-1796</subfield>
+      <subfield code="0">(DE-588)12207288X</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC04564058</controlfield>
+    <controlfield tag="002">20050706</controlfield>
+    <controlfield tag="005">20160901</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">350000</subfield>
+      <subfield code="d">E0224600</subfield>
+      <subfield code="e">E0244900</subfield>
+      <subfield code="f">N0500500</subfield>
+      <subfield code="g">N0492400</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Maire, François Joseph</subfield>
+      <subfield code="d">1738-1788</subfield>
+      <subfield code="9">(DE-588)129300616</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Verbindung der Drau mit der Save</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Jonction de la Drave a la Save</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:250 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Wien]</subfield>
+      <subfield code="b">[Ch. &amp; Fred. Bargum &amp; Comp.]</subfield>
+      <subfield code="c">[1786]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC04564083</controlfield>
+    <controlfield tag="002">20050706</controlfield>
+    <controlfield tag="005">20160901</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">350000</subfield>
+      <subfield code="d">E0224600</subfield>
+      <subfield code="e">E0244900</subfield>
+      <subfield code="f">N0500500</subfield>
+      <subfield code="g">N0492400</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Maire, François Joseph</subfield>
+      <subfield code="d">1738-1788</subfield>
+      <subfield code="9">(DE-588)129300616</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Verbindung der Sann und des Bug mit dem Niester</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Jonction de la Sann et du Bug au Niester</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:350 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Wien]</subfield>
+      <subfield code="b">[Ch. &amp; Fred. Bargum &amp; Comp.]</subfield>
+      <subfield code="c">[1786]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC04564066</controlfield>
+    <controlfield tag="002">20050706</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">420000</subfield>
+      <subfield code="d">E0190651</subfield>
+      <subfield code="e">E0191651</subfield>
+      <subfield code="f">N0491200</subfield>
+      <subfield code="g">N0490701</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Maire, François Joseph</subfield>
+      <subfield code="d">1738-1788</subfield>
+      <subfield code="9">(DE-588)129300616</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Verbindung der Waag mit dem Poprad</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Jonction du Waag au Poprad</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:420 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Wien]</subfield>
+      <subfield code="b">[Ch. &amp; Fred. Bargum &amp; Comp.]</subfield>
+      <subfield code="c">[1786]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC04564040</controlfield>
+    <controlfield tag="002">20050706</controlfield>
+    <controlfield tag="005">20160901</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Maire, François Joseph</subfield>
+      <subfield code="d">1738-1788</subfield>
+      <subfield code="9">(DE-588)129300616</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Verbindung des Adriatischen Meeres mit der Kulpa</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Jonction de la mer Adriatique à la Culpa</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:250 000 - circa 1:6 500</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Wien]</subfield>
+      <subfield code="b">[Ch. &amp; Fred. Bargum &amp; Comp.]</subfield>
+      <subfield code="c">[1786]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC04564077</controlfield>
+    <controlfield tag="002">20050706</controlfield>
+    <controlfield tag="005">20160901</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">350000</subfield>
+      <subfield code="d">E0204400</subfield>
+      <subfield code="e">E0222300</subfield>
+      <subfield code="f">N0495500</subfield>
+      <subfield code="g">N0491400</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Maire, François Joseph</subfield>
+      <subfield code="d">1738-1788</subfield>
+      <subfield code="9">(DE-588)129300616</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Verbindung des Poprad und der Dunajetz mit den beiden Wisloka</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Jonction du Poprad et du Dunajetz aux deux Wisloka</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:350 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Wien]</subfield>
+      <subfield code="b">[Ch. &amp; Fred. Bargum &amp; Comp.]</subfield>
+      <subfield code="c">[1786]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00331nM2.01000024      h</leader>
+    <controlfield tag="001">AC04258574</controlfield>
+    <controlfield tag="002">20040924</controlfield>
+    <controlfield tag="005">20161004</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">500000</subfield>
+      <subfield code="d">E0114658</subfield>
+      <subfield code="e">E0142142</subfield>
+      <subfield code="f">N0482109</subfield>
+      <subfield code="g">N0465915</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Mayr, Johann Georg</subfield>
+      <subfield code="d">1800-1864</subfield>
+      <subfield code="9">(DE-588)123493889</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Reise- und Gebirgs-Karte vom Lande Salzburg mit Berchtesgaden und dem Salzkammergut</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">1:500 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">München</subfield>
+      <subfield code="b">in Commission bei A. Brugger</subfield>
+      <subfield code="c">1854</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="3">
+      <subfield code="a">München</subfield>
+      <subfield code="b">J. B. Seel</subfield>
+      <subfield code="c">1854</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Schleich, Carl Peter</subfield>
+      <subfield code="d">1823-1887</subfield>
+      <subfield code="0">(DE-588)128653531</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00806nM2.01000024      h</leader>
+    <controlfield tag="001">AC00677476</controlfield>
+    <controlfield tag="002">19930727</controlfield>
+    <controlfield tag="005">20160321</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="A">ac0</subfield>
+      <subfield code="a">a</subfield>
+      <subfield code="b">500000</subfield>
+      <subfield code="d">E0115200</subfield>
+      <subfield code="e">E0141800</subfield>
+      <subfield code="f">N0482100</subfield>
+      <subfield code="g">N0465400</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Karte</subfield>
+      <subfield code="9">(DE-588)4029783-4</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Mayr, Johann Georg</subfield>
+      <subfield code="d">1800-1864</subfield>
+      <subfield code="9">(DE-588)123493889</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Reise- und Gebirgs-Karte vom Lande Salzburg mit Berchtesgaden und dem Salzkammergut nebst den angränzenden österreichisch- und bayerischen Landestheilen</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">1:500 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Regensburg</subfield>
+      <subfield code="b">Alfred Coppenrath (H. Pawelek)</subfield>
+      <subfield code="c">[1880]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Mayr, Johann Georg</subfield>
+      <subfield code="d">1800-1864</subfield>
+      <subfield code="0">(DE-588)123493889</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC10732466</controlfield>
+    <controlfield tag="002">20130301</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-GB</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">42000000</subfield>
+      <subfield code="d">E1631500</subfield>
+      <subfield code="e">E1663800</subfield>
+      <subfield code="f">N0845900</subfield>
+      <subfield code="g">S0850000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Moll, Herman</subfield>
+      <subfield code="d">1654-1732</subfield>
+      <subfield code="9">(DE-588)12039376X</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;A&gt;&gt; New and Correct Map of the World</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:42 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">London</subfield>
+      <subfield code="b">Printed for and sold by J. Bowles ... &amp; by T. Bowles ... and by P. Overton ... and by John King</subfield>
+      <subfield code="c">[circa 1730]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC04522121</controlfield>
+    <controlfield tag="002">20050531</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+      <subfield code="b">1850000</subfield>
+      <subfield code="d">E0184200</subfield>
+      <subfield code="e">E0464400</subfield>
+      <subfield code="f">N0485100</subfield>
+      <subfield code="g">N0345300</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Rhode, Johann Christian</subfield>
+      <subfield code="d">1713-1786</subfield>
+      <subfield code="9">(DE-588)103753877</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Partes confines Trium Magnorum Imperiorum Austriaci Russici et Osmanic</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:1 850 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Berlin]</subfield>
+      <subfield code="b">Ausp. Acad. Reg. Scient. et Eleg. Litt.</subfield>
+      <subfield code="c">MDCCLXXXV</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12239283</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160825</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Ritter, Franz</subfield>
+      <subfield code="d">?-1641</subfield>
+      <subfield code="9">(DE-588)100392660</subfield>
+      <subfield code="4">ctg</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Weltkarte]</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Maßstab variiert</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Nürnberg]</subfield>
+      <subfield code="b">[Fürst, Paul?]</subfield>
+      <subfield code="c">1640</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC13304702</controlfield>
+    <controlfield tag="002">20160826</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-GB</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">eng</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">46800000</subfield>
+      <subfield code="d">W0331900</subfield>
+      <subfield code="e">W0240200</subfield>
+      <subfield code="f">N0722500</subfield>
+      <subfield code="g">S0630000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Roberts, Henry</subfield>
+      <subfield code="d">1725-1796</subfield>
+      <subfield code="9">(DE-588)1089788312</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;A&gt;&gt; General Chart Exhibiting the Discoveries made by Capt.n James Cook in this and his two preciding Voyages</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:46 800 000 am Äquator</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[London]</subfield>
+      <subfield code="b">[G. Nicol and T. Cadell]</subfield>
+      <subfield code="c">[1784]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Lodge, John</subfield>
+      <subfield code="0">(DE-588)129668400</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12376372</controlfield>
+    <controlfield tag="002">20150707</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="d">E0155000</subfield>
+      <subfield code="e">E0245600</subfield>
+      <subfield code="f">N0482000</subfield>
+      <subfield code="g">N0432900</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Sandrart, Jakob &lt;&lt;von&gt;&gt;</subfield>
+      <subfield code="d">1630-1708</subfield>
+      <subfield code="9">(DE-588)116801298</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Neue Land-Tafel von Hungarn und dessen incorporirten Königreichen und Provinzen</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:1 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Nürnberg</subfield>
+      <subfield code="b">Jacob Sandrart</subfield>
+      <subfield code="c">[1664]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12213379</controlfield>
+    <controlfield tag="002">20150313</controlfield>
+    <controlfield tag="005">20161003</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2600000</subfield>
+      <subfield code="d">W0043600</subfield>
+      <subfield code="e">E0095000</subfield>
+      <subfield code="f">N0515400</subfield>
+      <subfield code="g">N0420200</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Sanson, Nicolas</subfield>
+      <subfield code="d">1600-1667</subfield>
+      <subfield code="9">(DE-588)12360978X</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Carte Geographicque des Postes qui traversent la France</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:2 600 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Paris</subfield>
+      <subfield code="b">Par Melchior Tavernier</subfield>
+      <subfield code="c">1632</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Tavernier, Melchior</subfield>
+      <subfield code="d">1564-1641</subfield>
+      <subfield code="0">(DE-588)18843917X</subfield>
+      <subfield code="4">egr</subfield>
+      <subfield code="4">pbl</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12209932</controlfield>
+    <controlfield tag="002">20150311</controlfield>
+    <controlfield tag="005">20160321</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="A">ac0</subfield>
+      <subfield code="a">a</subfield>
+      <subfield code="b">6500000</subfield>
+      <subfield code="d">E0031900</subfield>
+      <subfield code="e">E0443700</subfield>
+      <subfield code="f">N0710900</subfield>
+      <subfield code="g">N0533900</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Sanson, Nicolas</subfield>
+      <subfield code="d">1626-1648</subfield>
+      <subfield code="9">(DE-588)129000868</subfield>
+      <subfield code="4">ctg</subfield>
+      <subfield code="4">edt</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">&lt;&lt;La&gt;&gt; Scandinavie Et les environs</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Circa 1:6 500 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Paris</subfield>
+      <subfield code="b">chez l'Autheur avec privilege</subfield>
+      <subfield code="c">1647</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12241989</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0240000</subfield>
+      <subfield code="e">E0371800</subfield>
+      <subfield code="f">N0370100</subfield>
+      <subfield code="g">N0285900</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">24</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">24</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Ägypten; Zypern; Südtürkei; Griechische Inseln]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12241850</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0375000</subfield>
+      <subfield code="e">E0484200</subfield>
+      <subfield code="f">N0371900</subfield>
+      <subfield code="g">N0291000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">25</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">25</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Syrisch-Arabische Wüste]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12242007</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">W0023000</subfield>
+      <subfield code="e">E0111100</subfield>
+      <subfield code="f">N0372400</subfield>
+      <subfield code="g">N0251000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">22</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">22</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Algerien, Tunesien]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12241996</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0105700</subfield>
+      <subfield code="e">E0240300</subfield>
+      <subfield code="f">N0383300</subfield>
+      <subfield code="g">N0293800</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">23</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">23</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Große Syrte; Sizilien; Pelopones]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12242016</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0394400</subfield>
+      <subfield code="e">E0514200</subfield>
+      <subfield code="f">N0435200</subfield>
+      <subfield code="g">N0340300</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">20</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">20</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Armenien; Aserbaidschan; Russland; Georgien; Iran; Kaspisches Meer]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12242013</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">W0135100</subfield>
+      <subfield code="e">W0025400</subfield>
+      <subfield code="f">N0355700</subfield>
+      <subfield code="g">N0252700</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">21</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">21</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Marokko]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12242030</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0100600</subfield>
+      <subfield code="e">E0240200</subfield>
+      <subfield code="f">N0463800</subfield>
+      <subfield code="g">N0385000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">18</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">18</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Adria; Italien; Kroatien; Türkei]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12242023</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0250400</subfield>
+      <subfield code="e">E0383700</subfield>
+      <subfield code="f">N0460300</subfield>
+      <subfield code="g">N0381500</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">19</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">19</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Schwarzes Meer und Küstenstaaten]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12242045</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">W0180300</subfield>
+      <subfield code="e">W0035900</subfield>
+      <subfield code="f">N0441600</subfield>
+      <subfield code="g">N0355500</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">16</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">16</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Portugal; West-Spanien]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12242040</controlfield>
+    <controlfield tag="003">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">W0041800</subfield>
+      <subfield code="e">E0101700</subfield>
+      <subfield code="f">N0464800</subfield>
+      <subfield code="g">N0363000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">17</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">17</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Westl. Mittelmeer; Frankreich; Spanien]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12242056</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0263700</subfield>
+      <subfield code="e">E0432800</subfield>
+      <subfield code="f">N0544600</subfield>
+      <subfield code="g">N0460100</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">14</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">14</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Weißrussland]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12242047</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0400400</subfield>
+      <subfield code="e">E0584800</subfield>
+      <subfield code="f">N0521800</subfield>
+      <subfield code="g">N0404100</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">15</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">15</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Russland; Kasachstan; Kaspisches Meer]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      u</leader>
+    <controlfield tag="001">AC12239832</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20151211</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">26</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">26</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Skelett für die Zusammenstellung der Blätter der Generalkarte von Europa]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12242065</controlfield>
+    <controlfield tag="002">20150413</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0083400</subfield>
+      <subfield code="e">E0244500</subfield>
+      <subfield code="f">N0553900</subfield>
+      <subfield code="g">N0472200</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">13</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">13</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Nordöstliches Mitteleuropa]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12240065</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0064800</subfield>
+      <subfield code="e">E0330700</subfield>
+      <subfield code="f">N0720300</subfield>
+      <subfield code="g">N0635300</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">3</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">3</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Nordskaninavien]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12240089</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0300400</subfield>
+      <subfield code="e">E0614900</subfield>
+      <subfield code="f">N0703600</subfield>
+      <subfield code="g">N0610000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">4</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">4</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Nordosteuropäische Küste]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12240105</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0522600</subfield>
+      <subfield code="e">E0764300</subfield>
+      <subfield code="f">N0670600</subfield>
+      <subfield code="g">N0564200</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">5</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">5</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Westsibirien]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC11114025</controlfield>
+    <controlfield tag="002">20131107</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2952000</subfield>
+      <subfield code="d">W0343200</subfield>
+      <subfield code="e">W0101600</subfield>
+      <subfield code="f">N0593900</subfield>
+      <subfield code="g">N0491500</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">6</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">6</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Nordatlantik/Titelei]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12240136</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">W0132700</subfield>
+      <subfield code="e">E0065100</subfield>
+      <subfield code="f">N0625000</subfield>
+      <subfield code="g">N0535200</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">7</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">7</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Nordsee]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12240148</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0060300</subfield>
+      <subfield code="e">E0273000</subfield>
+      <subfield code="f">N0641600</subfield>
+      <subfield code="g">N0554100</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">8</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Süd-Skandinavien]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12240158</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0275900</subfield>
+      <subfield code="e">E0495500</subfield>
+      <subfield code="f">N0630500</subfield>
+      <subfield code="g">N0532600</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">9</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">9</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Nordwest-Russland]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12240259</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">E0462600</subfield>
+      <subfield code="e">E0664200</subfield>
+      <subfield code="f">N0595700</subfield>
+      <subfield code="g">N0495600</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">10</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">10</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Nord-Russland]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12240304</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">W0285500</subfield>
+      <subfield code="e">W0095000</subfield>
+      <subfield code="f">N0524000</subfield>
+      <subfield code="g">N0423200</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">11</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">11</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Nordwestirland]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12240324</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">W0080900</subfield>
+      <subfield code="e">E0080100</subfield>
+      <subfield code="f">N0545000</subfield>
+      <subfield code="g">N0475800</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">12</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">12</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Süd-Britische Inseln und Nordwest Europäisches Festland]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      u</leader>
+    <controlfield tag="001">AC12239819</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">W0251100</subfield>
+      <subfield code="e">W0213300</subfield>
+      <subfield code="f">N0654000</subfield>
+      <subfield code="g">N0633100</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">1</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">1</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Titelei]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      u</leader>
+    <controlfield tag="001">AC12240051</controlfield>
+    <controlfield tag="002">20150409</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03745321</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">W0253700</subfield>
+      <subfield code="e">W0000200</subfield>
+      <subfield code="f">N0680600</subfield>
+      <subfield code="g">N0622600</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="n">2</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">2</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">[Island - Nordpolarmeer]</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC03745321</controlfield>
+    <controlfield tag="002">20030613</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2592000</subfield>
+      <subfield code="d">W0274100</subfield>
+      <subfield code="e">E0534400</subfield>
+      <subfield code="f">N0712100</subfield>
+      <subfield code="g">N0300100</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Scheda, Joseph &lt;&lt;von&gt;&gt;</subfield>
+      <subfield code="d">1815-1888</subfield>
+      <subfield code="9">(DE-588)117620335</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">General-Karte von Europa in 25 Blättern</subfield>
+    </datafield>
+    <datafield tag="250" ind1="#" ind2="#">
+      <subfield code="a">Neueste Auflage mit besonderer Berücksichtigung der Eisenbahnen</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">1:2 592 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">Artaria</subfield>
+      <subfield code="c">1872</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Artaria und Compagnie</subfield>
+      <subfield code="h">Wien</subfield>
+      <subfield code="0">(DE-588)2030321-X</subfield>
+      <subfield code="4">pbl</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC09401696</controlfield>
+    <controlfield tag="002">20120718</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Seutter, Matthäus</subfield>
+      <subfield code="d">1678-1757</subfield>
+      <subfield code="9">(DE-588)118613537</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Accurata Globi Terrestris</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Augsburg</subfield>
+      <subfield code="b">Anjezo im Verlag bey Tobias Conrad Lotter</subfield>
+      <subfield code="c">circa 1750</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">6 ungezählte Blätter</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Lotter, Tobias Conrad</subfield>
+      <subfield code="d">1717-1777</subfield>
+      <subfield code="0">(DE-588)123382432</subfield>
+      <subfield code="4">pbl</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01000024      h</leader>
+    <controlfield tag="001">AC12708594</controlfield>
+    <controlfield tag="002">20151209</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">50000000</subfield>
+      <subfield code="d">W0214900</subfield>
+      <subfield code="e">E0531200</subfield>
+      <subfield code="f">N0393300</subfield>
+      <subfield code="g">S0381700</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Seutter, Matthäus</subfield>
+      <subfield code="d">1678-1757</subfield>
+      <subfield code="9">(DE-588)118613537</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Africa</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:50 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Augsburg</subfield>
+      <subfield code="b">Anjezo im Verlag bey Tobias Conrad Lotter</subfield>
+      <subfield code="c">[circa 1750]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Lotter, Tobias Conrad</subfield>
+      <subfield code="d">1717-1777</subfield>
+      <subfield code="0">(DE-588)123382432</subfield>
+      <subfield code="4">egr</subfield>
+      <subfield code="4">pbl</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01000024      h</leader>
+    <controlfield tag="001">AC12708991</controlfield>
+    <controlfield tag="002">20151209</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">50000000</subfield>
+      <subfield code="d">W1212700</subfield>
+      <subfield code="e">W0121600</subfield>
+      <subfield code="f">N0712300</subfield>
+      <subfield code="g">N0082700</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Seutter, Matthäus</subfield>
+      <subfield code="d">1678-1757</subfield>
+      <subfield code="9">(DE-588)118613537</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">America Meridionalis</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:1:50 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Augsburg</subfield>
+      <subfield code="b">Anjezo im Verlag bey Tobias Conrad Lotter</subfield>
+      <subfield code="c">[circa 1750]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Lotter, Tobias Conrad</subfield>
+      <subfield code="d">1717-1777</subfield>
+      <subfield code="0">(DE-588)123382432</subfield>
+      <subfield code="4">egr</subfield>
+      <subfield code="4">pbl</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01000024      h</leader>
+    <controlfield tag="001">AC12706878</controlfield>
+    <controlfield tag="002">20151204</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">24000000</subfield>
+      <subfield code="d">W0312300</subfield>
+      <subfield code="e">E0482200</subfield>
+      <subfield code="f">N0711600</subfield>
+      <subfield code="g">N0293500</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Seutter, Matthäus</subfield>
+      <subfield code="d">1678-1757</subfield>
+      <subfield code="9">(DE-588)118613537</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Asia</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa.1:24 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Augsburg</subfield>
+      <subfield code="b">Anjezo im Verlag bey Tobias Conrad Lotter</subfield>
+      <subfield code="c">[circa 1750]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Lotter, Tobias Conrad</subfield>
+      <subfield code="d">1717-1777</subfield>
+      <subfield code="0">(DE-588)123382432</subfield>
+      <subfield code="4">egr</subfield>
+      <subfield code="4">pbl</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01000024      h</leader>
+    <controlfield tag="001">AC12706488</controlfield>
+    <controlfield tag="002">20151204</controlfield>
+    <controlfield tag="005">20160913</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">150000000</subfield>
+      <subfield code="d">W1800000</subfield>
+      <subfield code="e">E1800000</subfield>
+      <subfield code="f">N0900000</subfield>
+      <subfield code="g">S0900000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Weltkarte</subfield>
+      <subfield code="9">(DE-588)4065368-7</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Seutter, Matthäus</subfield>
+      <subfield code="d">1678-1757</subfield>
+      <subfield code="9">(DE-588)118613537</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Diversi Globi Terr-Aquei</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Circa 1:150 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Augsburg</subfield>
+      <subfield code="b">Anjezo im Verlag bey Tobias Conrad Lotter</subfield>
+      <subfield code="c">[circa 1750]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Silbereisen, Andreas</subfield>
+      <subfield code="d">1713-1757</subfield>
+      <subfield code="0">(DE-588)1083807021</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01000024      h</leader>
+    <controlfield tag="001">AC12706659</controlfield>
+    <controlfield tag="002">20151204</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">24000000</subfield>
+      <subfield code="d">W0312300</subfield>
+      <subfield code="e">E0482200</subfield>
+      <subfield code="f">N0711600</subfield>
+      <subfield code="g">N0293500</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Seutter, Matthäus</subfield>
+      <subfield code="d">1678-1757</subfield>
+      <subfield code="9">(DE-588)118613537</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Europa</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:24 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Augsburg</subfield>
+      <subfield code="b">Anjezo im Verlag bey Tobias Conrad Lotter</subfield>
+      <subfield code="c">[circa 1750]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Silbereisen, Andreas</subfield>
+      <subfield code="d">1713-1757</subfield>
+      <subfield code="0">(DE-588)1083807021</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01000024      h</leader>
+    <controlfield tag="001">AC12708841</controlfield>
+    <controlfield tag="002">20151209</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">37000000</subfield>
+      <subfield code="d">W1212700</subfield>
+      <subfield code="e">W0121600</subfield>
+      <subfield code="f">N0712300</subfield>
+      <subfield code="g">N0082700</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Seutter, Matthäus</subfield>
+      <subfield code="d">1678-1757</subfield>
+      <subfield code="9">(DE-588)118613537</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Novus Orbis Sive America Septentrionalis divisa</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:37 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Augsburg</subfield>
+      <subfield code="b">Anjezo im Verlag bey Tobias Conrad Lotter</subfield>
+      <subfield code="c">[circa 1750]</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Lotter, Tobias Conrad</subfield>
+      <subfield code="d">1717-1777</subfield>
+      <subfield code="0">(DE-588)123382432</subfield>
+      <subfield code="4">egr</subfield>
+      <subfield code="4">pbl</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12694716</controlfield>
+    <controlfield tag="002">20151124</controlfield>
+    <controlfield tag="005">20160913</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2300000</subfield>
+      <subfield code="d">W0781300</subfield>
+      <subfield code="e">W0661600</subfield>
+      <subfield code="f">N0443000</subfield>
+      <subfield code="g">N0362800</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Seutter, Matthäus</subfield>
+      <subfield code="d">1678-1757</subfield>
+      <subfield code="9">(DE-588)118613537</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Recens Edita totius Novi Belgii, in America Septentrionali siti</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Circa 1:2 300 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Augustani</subfield>
+      <subfield code="b">cura et sumtibus Matthæi Seutteri</subfield>
+      <subfield code="c">[zwischen 1707 und 1727]</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+    <datafield tag="751" ind1="#" ind2="#">
+      <subfield code="a">Augsburg</subfield>
+      <subfield code="0">(DE-588)4003614-5</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Seutter, Matthäus</subfield>
+      <subfield code="d">1678-1757</subfield>
+      <subfield code="0">(DE-588)118613537</subfield>
+      <subfield code="4">pbl</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00868nM2.01200024      h</leader>
+    <controlfield tag="001">AC08770684</controlfield>
+    <controlfield tag="003">20111005</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-PT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">por</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="d">E1132509</subfield>
+      <subfield code="e">E1133748</subfield>
+      <subfield code="f">N0222004</subfield>
+      <subfield code="g">N0220203</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Macao</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Circa 1:14 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Lisboa]</subfield>
+      <subfield code="b">[Craesbeeck de Mello]</subfield>
+      <subfield code="c">[1675]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC03907309</controlfield>
+    <controlfield tag="002">20031201</controlfield>
+    <controlfield tag="005">20160826</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+      <subfield code="b">144000</subfield>
+      <subfield code="d">E0142700</subfield>
+      <subfield code="e">E0170400</subfield>
+      <subfield code="f">N0490100</subfield>
+      <subfield code="g">N0472500</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Vischer, Georg Matthäus</subfield>
+      <subfield code="d">1628-1695</subfield>
+      <subfield code="9">(DE-588)118768646</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Archiducatus Austriae Inferioris Geographica et Noviter Emendata Accuratissima Descriptio</subfield>
+    </datafield>
+    <datafield tag="250" ind1="#" ind2="#">
+      <subfield code="a">[2. Ausgabe]</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:144 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[Wien]</subfield>
+      <subfield code="b">[kein Verlag ermittelbar]</subfield>
+      <subfield code="c">1697</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Hofmann, Johann Jakob</subfield>
+      <subfield code="d">1656-1709</subfield>
+      <subfield code="0">(DE-588)1112341498</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Hermundt, Johannes</subfield>
+      <subfield code="d">ca. 1. H. 18. Jh.</subfield>
+      <subfield code="0">(DE-588)139873570</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12247898</controlfield>
+    <controlfield tag="002">20150417</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">35000000</subfield>
+      <subfield code="d">W1800000</subfield>
+      <subfield code="e">E1800000</subfield>
+      <subfield code="f">S0470100</subfield>
+      <subfield code="g">S0900000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Weigel, Christoph</subfield>
+      <subfield code="d">1654-1725</subfield>
+      <subfield code="9">(DE-588)118630067</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Facies poli antarctici ex recentissimis itinerariis</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:3 500 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="c">[1718]</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="t">&lt;&lt;Johann David Koehlers Historiarum &amp; Politices Professoris Publici auf der Nürnbergischen Universitaet Altdorff&gt;&gt; Bequemer Schul- und Reisen-Atlasausgefertiget von Christoph Weigeln / Kunsthändlern in Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">1718</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="g">7</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="w">AC09369655</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12247885</controlfield>
+    <controlfield tag="002">20150417</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">30000000</subfield>
+      <subfield code="d">W1800000</subfield>
+      <subfield code="e">E1800000</subfield>
+      <subfield code="f">N0900000</subfield>
+      <subfield code="g">N0495500</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Weigel, Christoph</subfield>
+      <subfield code="d">1654-1725</subfield>
+      <subfield code="9">(DE-588)118630067</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Facies poli arctici adiacentiumque ei regionum ex recentissimis itinerariis</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:30 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Norib.</subfield>
+      <subfield code="c">[1718]</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="t">&lt;&lt;Johann David Koehlers Historiarum &amp; Politices Professoris Publici auf der Nürnbergischen Universitaet Altdorff&gt;&gt; Bequemer Schul- und Reisen-Atlasausgefertiget von Christoph Weigeln / Kunsthändlern in Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">1718</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="g">7</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="w">AC09369655</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12247964</controlfield>
+    <controlfield tag="002">20150417</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">330000</subfield>
+      <subfield code="d">E0133300</subfield>
+      <subfield code="e">E0151200</subfield>
+      <subfield code="f">N0521500</subfield>
+      <subfield code="g">N0513000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Weigel, Christoph</subfield>
+      <subfield code="d">1654-1725</subfield>
+      <subfield code="9">(DE-588)118630067</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Lusatia Inferior</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:330 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Norimb.</subfield>
+      <subfield code="c">[1718]</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="t">&lt;&lt;Johann David Koehlers Historiarum &amp; Politices Professoris Publici auf der Nürnbergischen Universitaet Altdorff&gt;&gt; Bequemer Schul- und Reisen-Atlasausgefertiget von Christoph Weigeln / Kunsthändlern in Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">1718</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="g">7</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="w">AC09369655</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12247955</controlfield>
+    <controlfield tag="002">20150417</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">330000</subfield>
+      <subfield code="d">E0134200</subfield>
+      <subfield code="e">E0152500</subfield>
+      <subfield code="f">N0513900</subfield>
+      <subfield code="g">N0504900</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Weigel, Christoph</subfield>
+      <subfield code="d">1654-1725</subfield>
+      <subfield code="9">(DE-588)118630067</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Lusatia Superior</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:330 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="c">[1718]</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="t">&lt;&lt;Johann David Koehlers Historiarum &amp; Politices Professoris Publici auf der Nürnbergischen Universitaet Altdorff&gt;&gt; Bequemer Schul- und Reisen-Atlasausgefertiget von Christoph Weigeln / Kunsthändlern in Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">1718</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="g">7</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="w">AC09369655</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12248033</controlfield>
+    <controlfield tag="002">20150417</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">7850000</subfield>
+      <subfield code="d">W1065900</subfield>
+      <subfield code="e">W0714500</subfield>
+      <subfield code="f">N0462400</subfield>
+      <subfield code="g">N0254100</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Weigel, Christoph</subfield>
+      <subfield code="d">1654-1725</subfield>
+      <subfield code="9">(DE-588)118630067</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Novissima Tabula ergionis Ludovicianae Gallice dictae la Louisiane</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:6 500 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Nor.</subfield>
+      <subfield code="c">[1718]</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="t">&lt;&lt;Johann David Koehlers Historiarum &amp; Politices Professoris Publici auf der Nürnbergischen Universitaet Altdorff&gt;&gt; Bequemer Schul- und Reisen-Atlasausgefertiget von Christoph Weigeln / Kunsthändlern in Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">1718</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="g">7</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="w">AC09369655</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12247880</controlfield>
+    <controlfield tag="002">20150417</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="b">115000000</subfield>
+      <subfield code="a">a</subfield>
+      <subfield code="d">W1800000</subfield>
+      <subfield code="e">E1800000</subfield>
+      <subfield code="f">N0900000</subfield>
+      <subfield code="g">S0900000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Weigel, Christoph</subfield>
+      <subfield code="d">1654-1725</subfield>
+      <subfield code="9">(DE-588)118630067</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Planigobium Terrestre Minus</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:110 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Noribergae</subfield>
+      <subfield code="c">[1718]</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="t">&lt;&lt;Johann David Koehlers Historiarum &amp; Politices Professoris Publici auf der Nürnbergischen Universitaet Altdorff&gt;&gt; Bequemer Schul- und Reisen-Atlasausgefertiget von Christoph Weigeln / Kunsthändlern in Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">1718</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="g">7</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="w">AC09369655</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC12247972</controlfield>
+    <controlfield tag="002">20150417</controlfield>
+    <controlfield tag="005">20160706</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-DXDE</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">lat</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">4800000</subfield>
+      <subfield code="d">E0204300</subfield>
+      <subfield code="e">E0422700</subfield>
+      <subfield code="f">N0561400</subfield>
+      <subfield code="g">N0404900</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Weigel, Christoph</subfield>
+      <subfield code="d">1654-1725</subfield>
+      <subfield code="9">(DE-588)118630067</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Ukrania seu Cosa Corum Regio Walachia item Moldavia et Trartaria minor</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:4 800 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Norimb.</subfield>
+      <subfield code="c">[1718]</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="t">&lt;&lt;Johann David Koehlers Historiarum &amp; Politices Professoris Publici auf der Nürnbergischen Universitaet Altdorff&gt;&gt; Bequemer Schul- und Reisen-Atlasausgefertiget von Christoph Weigeln / Kunsthändlern in Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">Nürnberg</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="d">1718</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="g">7</subfield>
+    </datafield>
+    <datafield tag="773" ind1="#" ind2="#">
+      <subfield code="w">AC09369655</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>01038nM2.01200024      h</leader>
+    <controlfield tag="001">AC13302678</controlfield>
+    <controlfield tag="002">20160824</controlfield>
+    <controlfield tag="005">20160830</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-IT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ita</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+      <subfield code="b">1000000</subfield>
+      <subfield code="d">W0434400</subfield>
+      <subfield code="e">E0524400</subfield>
+      <subfield code="f">N0671300</subfield>
+      <subfield code="g">S0360300</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Zenoi, Domenico</subfield>
+      <subfield code="9">(DE-588)1089366256</subfield>
+      <subfield code="4">ctg</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Al Mag.co S.or Francesco Scaridino Non mi parea cosa convenie[n]te ch'io Cassiasi andar fuora l'Europa, con la giuta del'africa, et parte del'asia senza ch'io le segnasoi nel Fronte nome honorato, si onde essa nun fusse isprezzata ó, almeno risbeltaia la onae nom sorio posulto in aliso compiaccre as pave di V. S. che per I gra meróli suoi pelvano esser scudo contro el biajmo di guessi che molto sano, ó al giudicio di guessi che frappe senerri nel censurar le altrui cose sono la riccua dun gue il core affetionato alla natia bonta di V. S. alla qualle hunulmente m’incefimo di padova 1570 D[ome]n[i]co Zenoni. / Oratio Beteli</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">Circa 1:45 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Padova</subfield>
+      <subfield code="b">Oratio Bertelli</subfield>
+      <subfield code="c">1570</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC13301550</controlfield>
+    <controlfield tag="002">20160823</controlfield>
+    <controlfield tag="005">20160824</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-IT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ita</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">1000000</subfield>
+      <subfield code="d">E0162131</subfield>
+      <subfield code="e">E0162308</subfield>
+      <subfield code="f">N0481305</subfield>
+      <subfield code="g">N0481202</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="100" ind1="1" ind2="#">
+      <subfield code="a">Zenoi, Domenico</subfield>
+      <subfield code="9">(DE-588)1089366256</subfield>
+      <subfield code="4">ctg</subfield>
+      <subfield code="4">egr</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Vienna</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:6 500</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Venetia</subfield>
+      <subfield code="b">all' insegna della Colonna</subfield>
+      <subfield code="c">1567</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Zaltieri, Bolognino</subfield>
+      <subfield code="0">(DE-588)124797148</subfield>
+      <subfield code="4">prt</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024||||||h</leader>
+    <controlfield tag="001">AC13303840</controlfield>
+    <controlfield tag="002">20160825</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2400000</subfield>
+      <subfield code="d">E0100100</subfield>
+      <subfield code="e">E0240400</subfield>
+      <subfield code="f">N0461200</subfield>
+      <subfield code="g">N0292700</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Mer Mediterranée</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Paris</subfield>
+      <subfield code="c">1745</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024||||||h</leader>
+    <controlfield tag="001">AC13303867</controlfield>
+    <controlfield tag="002">20160825</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">FR</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2400000</subfield>
+      <subfield code="d">E0180200</subfield>
+      <subfield code="e">E0380800</subfield>
+      <subfield code="f">N0414500</subfield>
+      <subfield code="g">N0292700</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Mer Mediterranée</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Paris</subfield>
+      <subfield code="c">1745</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>00000nM2.01200024      h</leader>
+    <controlfield tag="001">AC13304501</controlfield>
+    <controlfield tag="002">20160826</controlfield>
+    <controlfield tag="005">20160831</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-RU</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">rus</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="2">bound</subfield>
+      <subfield code="b">7000000</subfield>
+      <subfield code="d">W0950000</subfield>
+      <subfield code="e">W0250000</subfield>
+      <subfield code="f">S0500000</subfield>
+      <subfield code="g">S0700000</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Merkatorskaja Karta časti južnago okeana Okolo mysa Gorna</subfield>
+    </datafield>
+    <datafield tag="765" ind1="0" ind2="#">
+      <subfield code="t">ΜΕΡΑΤΟΡСКΑЯ Карта части Южного океана вокруг мыса Горн</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:7 000 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">[St. Petersburg]</subfield>
+      <subfield code="b">[kein Verlag ermittelbar]</subfield>
+      <subfield code="c">[circa 1825]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      u</leader>
+    <controlfield tag="001">AC04275411</controlfield>
+    <controlfield tag="002">20041011</controlfield>
+    <controlfield tag="005">20160830</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03752655</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">43200</subfield>
+      <subfield code="d">E0152228</subfield>
+      <subfield code="e">E0154308</subfield>
+      <subfield code="f">N0474638</subfield>
+      <subfield code="g">N0473742</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Karte</subfield>
+      <subfield code="9">(DE-588)4029783-4</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">Neu</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Umgebung von Neuberg</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="3">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">[Druckerei des k.k. militär geographischen Instituts]</subfield>
+      <subfield code="c">1874</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      u</leader>
+    <controlfield tag="001">AC03753347</controlfield>
+    <controlfield tag="002">20030625</controlfield>
+    <controlfield tag="005">20160830</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03752655</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">43200</subfield>
+      <subfield code="d">E0152141</subfield>
+      <subfield code="e">E0154323</subfield>
+      <subfield code="f">N0473703</subfield>
+      <subfield code="g">N0472825</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">Kri</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Umgebung von Krieglach</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="3">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">[Druckerei des k.k. militär geographischen Instituts]</subfield>
+      <subfield code="c">[1860?]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      u</leader>
+    <controlfield tag="001">AC04246197</controlfield>
+    <controlfield tag="002">20040913</controlfield>
+    <controlfield tag="005">20160321</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03752655</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="A">ac0</subfield>
+      <subfield code="a">a</subfield>
+      <subfield code="b">34200</subfield>
+      <subfield code="d">E0154234</subfield>
+      <subfield code="e">E0160406</subfield>
+      <subfield code="f">N0475546</subfield>
+      <subfield code="g">N0474639</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">Gut</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Umgebung von Gutenstein</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="3">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">[Druckerei des k.k. militär geographischen Instituts]</subfield>
+      <subfield code="c">[1860?]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      h</leader>
+    <controlfield tag="001">AC03752655</controlfield>
+    <controlfield tag="002">20030624</controlfield>
+    <controlfield tag="005">20160321</controlfield>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">ger</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Karte</subfield>
+      <subfield code="9">(DE-588)4029783-4</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2="#">
+      <subfield code="a">Kaiserlich-Königliches Militär-Geographisches Institut</subfield>
+      <subfield code="g">Wien</subfield>
+      <subfield code="0">(DE-588)118693-0</subfield>
+      <subfield code="4">isb</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Umgebungen von Wien</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">1:43 200</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="3">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">[Druckerei des k.k. militär geographischen Instituts]</subfield>
+      <subfield code="c">[1860?]</subfield>
+    </datafield>
+    <datafield tag="300" ind1="#" ind2="#">
+      <subfield code="a">1 Karte in 10 Blätter</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      u</leader>
+    <controlfield tag="001">AC04246138</controlfield>
+    <controlfield tag="002">20040913</controlfield>
+    <controlfield tag="005">20160830</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03752655</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">43200</subfield>
+      <subfield code="d">E0160409</subfield>
+      <subfield code="e">E0162531</subfield>
+      <subfield code="f">N0480512</subfield>
+      <subfield code="g">N0475600</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Karte</subfield>
+      <subfield code="9">(DE-588)4029783-4</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">Bad</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Umgebung von Baaden</subfield>
+    </datafield>
+    <datafield tag="246" ind1="0" ind2="3">
+      <subfield code="a">Umgebung von Baden</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">1:43 200</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="3">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">[Druckerei des k.k. militär geographischen Instituts]</subfield>
+      <subfield code="c">[1860?]</subfield>
+    </datafield>
+  </record>
+  <record type="Bibliographic">
+    <leader>     nM2.01200024      u</leader>
+    <controlfield tag="001">AC04246263</controlfield>
+    <controlfield tag="002">20040913</controlfield>
+    <controlfield tag="005">20160321</controlfield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="w">AC03752655</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="A">ac0</subfield>
+      <subfield code="a">a</subfield>
+      <subfield code="b">43200</subfield>
+      <subfield code="d">E0154221</subfield>
+      <subfield code="e">E0160416</subfield>
+      <subfield code="f">N0473738</subfield>
+      <subfield code="g">N0472824</subfield>
+    </datafield>
+    <datafield tag="773" ind1="0" ind2="#">
+      <subfield code="a">Wec</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Umgebung vom Berge Wechsel</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="3">
+      <subfield code="a">Wien</subfield>
+      <subfield code="b">[Druckerei des k.k. militär geographischen Instituts]</subfield>
+      <subfield code="c">[1860?]</subfield>
+    </datafield>
+  </record>
+</collection>

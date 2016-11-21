@@ -3,9 +3,48 @@
   <record type="Bibliographic">
     <leader>01037nM2.01200024      h</leader>
     <controlfield tag="001">AC08566613</controlfield>
+    <controlfield tag="003">20110629</controlfield>
     <controlfield tag="005">20160825</controlfield>
-    <datafield tag="773" ind1="0" ind2="#">
-      <subfield code="w"/>
+    <datafield tag="044" ind1="#" ind2="#">
+      <subfield code="c">XA-AAAT</subfield>
+    </datafield>
+    <datafield tag="041" ind1="#" ind2="7">
+      <subfield code="a">fre</subfield>
+    </datafield>
+    <datafield tag="034" ind1="1" ind2="#">
+      <subfield code="a">a</subfield>
+      <subfield code="b">2700000</subfield>
+      <subfield code="d">E0093800</subfield>
+      <subfield code="e">E0305900</subfield>
+      <subfield code="f">N0492400</subfield>
+      <subfield code="g">N0394000</subfield>
+      <subfield code="2">bound</subfield>
+    </datafield>
+    <datafield tag="655" ind1="#" ind2="7">
+      <subfield code="a">Altkarte</subfield>
+      <subfield code="9">(DE-588)4611904-8</subfield>
+    </datafield>
+    <datafield tag="110" ind1="2" ind2="#">
+      <subfield code="a">Artaria und Compagnie</subfield>
+      <subfield code="g">Wien</subfield>
+      <subfield code="0">(DE-588)2030321-X</subfield>
+      <subfield code="4">ctg</subfield>
+    </datafield>
+    <datafield tag="245" ind1="0" ind2="0">
+      <subfield code="a">Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire</subfield>
+    </datafield>
+    <datafield tag="255" ind1="#" ind2="#">
+      <subfield code="a">circa 1:2 700 000</subfield>
+    </datafield>
+    <datafield tag="264" ind1="#" ind2="1">
+      <subfield code="a">Vienne</subfield>
+      <subfield code="b">chez Artaria &amp; Compagnie</subfield>
+      <subfield code="c">1837</subfield>
+    </datafield>
+    <datafield tag="700" ind1="1" ind2="#">
+      <subfield code="a">Stein, Carl</subfield>
+      <subfield code="0">(DE-588)104333677</subfield>
+      <subfield code="4">egr</subfield>
     </datafield>
   </record>
 </collection>

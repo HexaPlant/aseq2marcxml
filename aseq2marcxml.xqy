@@ -1,4 +1,5 @@
 xquery version "3.0";
+declare default element namespace "http://www.loc.gov/MARC21/slim";
 
 (:
 :   Module Name: ASEQ/XML to MARC/XML using Zorba
@@ -62,10 +63,10 @@ declare function mtools:convertSubfields($tag as xs:string*,$ind1 as xs:string*,
     let $code:= {data($subfield/@code)}
     let $subvalue:=$subfield/text()
 
-    let $m21tag:={data($datafieldMap[@tag=$tag and @ind1=$ind1]/@m21tag)}
-    let $m21ind1:={data($datafieldMap[@tag=$tag and @ind1=$ind1]/@m21ind1)}
-    let $m21ind2:={data($datafieldMap[@tag=$tag and @ind1=$ind1]/@m21ind2)}
-    let $m21code := {data($datafieldMap[@tag=$tag and @ind1=$ind1 and @code=$code]/@m21code)}
+    let $m21tag:={data($datafieldMap[@tag=$tag and @ind1=$ind1]/@m21tag)}[1]
+    let $m21ind1:={data($datafieldMap[@tag=$tag and @ind1=$ind1]/@m21ind1)}[1]
+    let $m21ind2:={data($datafieldMap[@tag=$tag and @ind1=$ind1]/@m21ind2)}[1]
+    let $m21code := {data($datafieldMap[@tag=$tag and @ind1=$ind1 and @code=$code]/@m21code)}[1]
     return
       mtools:createSubfield({mtools:chooseNotEmpty($m21code,$code)},{$subvalue})
 };
@@ -107,10 +108,43 @@ let $datafieldMap:=<datafieldMap>
   <datafield tag="002" ind1="a" m21tag="002"/>
   <datafield tag="002" ind1="b" m21tag="003"/>
   <datafield tag="003" ind1=" " m21tag="005"/>
-  <datafield tag="034" ind1=" " code="a" m21tag="034" m21ind1="1" m21ind2="#" m21code="testa"/>
-  <datafield tag="034" ind1=" " code="b" m21tag="034" m21ind1="1b" m21ind2="#b" m21code="testb"/>
+  <datafield tag="010" ind1=" " code="a" m21tag="773" m21ind1="0" m21ind2="#" m21code="w"/>
+  <datafield tag="034" ind1=" " m21tag="034" m21ind1="1" m21ind2="#" />
+  <datafield tag="036" ind1="a" code="a" m21tag="044" m21ind1="#" m21ind2="#" m21code="c"/>
+  <datafield tag="037" ind1="b" code="a" m21tag="041" m21ind1="#" m21ind2="7" m21code="a"/>
+  <datafield tag="064" ind1="a" code="a" m21tag="655" m21ind1="#" m21ind2="7" m21code="a"/>
+  <datafield tag="064" ind1="9" code="" m21tag="655" m21ind1="#" m21ind2="7" m21code="0"/>
+  <datafield tag="089" ind1=" " m21tag="245" m21ind1="0" m21ind2="0"/>
+  <datafield tag="090" ind1=" " code="" m21tag="773" m21ind1="0" m21ind2="#" m21code="q"/>
+  <datafield tag="100" ind1=" " code="p" m21tag="100" m21ind1="1" m21ind2="#" m21code="a"/>
+  <datafield tag="200" ind1=" " code="k" m21tag="110" m21ind1="2" m21ind2="#" m21code="a"/>
+  <datafield tag="200" ind1=" " code="h" m21tag="110" m21ind1="2" m21ind2="#" m21code="g"/>
+  <datafield tag="200" ind1=" " code="9" m21tag="110" m21ind1="2" m21ind2="#" m21code="0"/>
+  <datafield tag="200" ind1="b" code="k" m21tag="110" m21ind1="2" m21ind2="#" m21code="a"/>
+  <datafield tag="200" ind1="b" code="h" m21tag="110" m21ind1="2" m21ind2="#" m21code="g"/>
+  <datafield tag="200" ind1="b" code="9" m21tag="110" m21ind1="2" m21ind2="#" m21code="0"/>
   <datafield tag="331" ind1=" " m21tag="245" m21ind1="0" m21ind2="0"/>
-
+  <datafield tag="331" ind1="_" code="a" m21tag="765" m21ind1="0" m21ind2="#" m21code="t"/>
+  <datafield tag="370" ind1="a" m21tag="246" m21ind1="0" m21ind2="3"/>
+  <datafield tag="403" ind1=" " m21tag="250" m21ind1="#" m21ind2="#"/>
+  <datafield tag="407" ind1=" " m21tag="255" m21ind1="#" m21ind2="#"/>
+  <datafield tag="419" ind1=" " m21tag="264" m21ind1="#" m21ind2="1"/>
+  <datafield tag="419" ind1="c" m21tag="264" m21ind1="#" m21ind2="3"/>
+  <datafield tag="433" ind1=" " m21tag="300" m21ind1="#" m21ind2="#"/>
+  <datafield tag="590" ind1=" " code="a" m21tag="773" m21ind1="#" m21ind2="#" m21code="t"/>
+  <datafield tag="594" ind1=" " code="a" m21tag="773" m21ind1="#" m21ind2="#" m21code="d"/>
+  <datafield tag="595" ind1=" " code="a" m21tag="773" m21ind1="#" m21ind2="#" m21code="d"/>
+  <datafield tag="596" ind1="a" code="a" m21tag="773" m21ind1="#" m21ind2="#" m21code="g"/>
+  <datafield tag="599" ind1=" " code="a" m21tag="773" m21ind1="#" m21ind2="#" m21code="w"/>
+  <datafield tag="676" ind1=" " code="g" m21tag="751" m21ind1="#" m21ind2="#" m21code="a"/>
+  <datafield tag="676" ind1=" " code="9" m21tag="751" m21ind1="#" m21ind2="#" m21code="0"/>
+  <datafield tag="676" ind1=" " code=" " m21tag="751" m21ind1="#" m21ind2="#" m21code="2"/>
+  <datafield tag="677" ind1=" " code="p" m21tag="700" m21ind1="1" m21ind2="#" m21code="a"/>
+  <datafield tag="677" ind1=" " code="9" m21tag="700" m21ind1="1" m21ind2="#" m21code="0"/>
+  <datafield tag="677" ind1=" " code="4" m21tag="700" m21ind1="1" m21ind2="#" m21code="4"/>
+  <datafield tag="677" ind1=" " code="k" m21tag="700" m21ind1="1" m21ind2="#" m21code="a"/>
+  <datafield tag="677" ind1=" " code="9" m21tag="700" m21ind1="1" m21ind2="#" m21code="0"/>
+  <datafield tag="677" ind1=" " code="4" m21tag="700" m21ind1="1" m21ind2="#" m21code="4"/>
 </datafieldMap>
 
 for $record in $aseqxml/collection/record
